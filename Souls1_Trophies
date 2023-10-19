@@ -1,0 +1,209 @@
+{
+    "trophies": [
+        {
+            "name": "The Dark Soul Trophy",
+            "type": "Platinum trophy",
+            "description": "Attain all other trophies found throughout the game."
+        },
+        {
+            "name": "Knights Honor Trophy",
+            "type": "Silver trophy",
+            "description": "Acquire all of the unique weapons found within the game."
+        },
+        {
+            "name": "Wisdom of a Sage Trophy",
+            "type": "Silver trophy",
+            "description": "Acquire all of the sorceries found within the game."
+        },
+        {
+            "name": "Prayer of a Maiden Trophy",
+            "type": "Silver trophy",
+            "description": "Acquire all of the miracles found within the game."
+        },
+        {
+            "name": "Bond of a Pyromancer Trophy",
+            "type": "Silver trophy",
+            "description": "Acquire all of the pyromancies found within the game."
+        },
+        {
+            "name": "Way of White Trophy",
+            "type": "Bronze trophy",
+            "description": "Join the Way of White covenant."
+        },
+        {
+            "name": "Princesss Guard Trophy",
+            "type": "Silver trophy",
+            "description": "Join the Princess's Guard covenant."
+        },
+        {
+            "name": "Blade of the Darkmoon Trophy",
+            "type": "Silver trophy",
+            "description": "Join the Blade of the Darkmoon covenant."
+        },
+        {
+            "name": "Sun Covenant: Warrior of Sunlight Trophy",
+            "type": "Silver trophy",
+            "description": "Join the Warrior of Sunlight covenant."
+        },
+        {
+            "name": "Forest Hunter Trophy",
+            "type": "Silver trophy",
+            "description": "Join the Forest Hunter covenant."
+        },
+        {
+            "name": "Dark Wraith Trophy",
+            "type": "Silver trophy",
+            "description": "Join the Darkwraith covenant."
+        },
+        {
+            "name": "Path of the Dragon Trophy",
+            "type": "Silver trophy",
+            "description": "Join the Path of the Dragon covenant."
+        },
+        {
+            "name": "Gravelord Servant Trophy",
+            "type": "Silver trophy",
+            "description": "Join the Gravelord Servant covenant."
+        },
+        {
+            "name": "Chaos Servant Trophy",
+            "type": "Silver trophy",
+            "description": "Join the Chaos Servant covenant."
+        },
+        {
+            "name": "Strongest Weapon Trophy",
+            "type": "Bronze trophy",
+            "description": "Reinforce a weapon with a regular path using titanite shards, large titanite shards, titanite chunks, and a titanite slab."
+        },
+        {
+            "name": "Crystal Weapon Trophy",
+            "type": "Bronze trophy",
+            "description": "Reinforce a weapon with a crystal path using titanite chunks and a titanite slab."
+        },
+        {
+            "name": "Lightning Weapon Trophy",
+            "type": "Bronze trophy",
+            "description": "Reinforce a weapon with a lightning path using titanite chunks and a titanite slab."
+        },
+        {
+            "name": "Raw Weapon Trophy",
+            "type": "Bronze trophy",
+            "description": "Reinforce a weapon with a raw path using large titanite shards."
+        },
+        {
+            "name": "Magic Weapon Trophy",
+            "type": "Bronze trophy",
+            "description": "Reinforce a weapon with a magic path using green shards, blue chunks, and a blue slab."
+        },
+        {
+            "name": "Enchanted Weapon Trophy",
+            "type": "Bronze trophy",
+            "description": "Reinforce a weapon with an enchanted path using blue chunks and a blue slab."
+        },
+        {
+            "name": "Divine Weapon Trophy",
+            "type": "Silver trophy",
+            "description": "Reinforce a weapon with a divine path using green shards, white chunks, and a white slab."
+        },
+        {
+            "name": "Occult Weapon Trophy",
+            "type": "Bronze trophy",
+            "description": "Reinforce a weapon with a occult path using white chunks and a white slab."
+        },
+        {
+            "name": "Fire Weapon Trophy",
+            "type": "Bronze trophy",
+            "description": "Reinforce a weapon with a fire path using green shards, red chunks, and a red slab."
+        },
+        {
+            "name": "Chaos Weapon Trophy",
+            "type": "Bronze trophy",
+            "description": "Reinforce a weapon with a chaos path using red chunks and a red slab."
+        },
+        {
+            "name": "Enkindle Trophy",
+            "type": "Bronze trophy",
+            "description": "Light a bonfire."
+        },
+        {
+            "name": "Estus Flask Trophy",
+            "type": "Bronze trophy",
+            "description": "Acquire an estus flask."
+        },
+        {
+            "name": "Reach Lordran Trophy",
+            "type": "Bronze trophy",
+            "description": "Arrive in Lordran."
+        },
+        {
+            "name": "Ring the Bell Undead Church Trophy",
+            "type": "Bronze trophy",
+            "description": "Ring the bell that is found within the Undead Parish."
+        },
+        {
+            "name": "Ring the Bell Quelaags Domain Trophy",
+            "type": "Bronze trophy",
+            "description": "Ring the bell that is found within Quelaag’s Domain."
+        },
+        {
+            "name": "Rite of Kindling Trophy",
+            "type": "Bronze trophy",
+            "description": "Acquire the Rite of Kindling."
+        },
+        {
+            "name": "Art of Abysswalking Trophy",
+            "type": "Bronze trophy",
+            "description": "Acquire the Covenant of Artorias."
+        },
+        {
+            "name": "Reach Anor Londo Trophy",
+            "type": "Bronze trophy",
+            "description": "Arrive in Anor Londo."
+        },
+        {
+            "name": "Lordvessel Trophy",
+            "type": "Silver trophy",
+            "description": "Acquire the Lordvessel within Anor Londo."
+        },
+        {
+            "name": "To Link the Fire Trophy",
+            "type": "Gold trophy",
+            "description": "Achieve the ‘To Link the Fire’ ending."
+        },
+        {
+            "name": "Dark Lord Trophy",
+            "type": "Gold trophy",
+            "description": "Achieve the ‘Dark Lord’ ending."
+        },
+        {
+            "name": "Gravelord Nito Trophy",
+            "type": "Silver trophy",
+            "description": "Acquire the Lord Soul from Gravelord Nito."
+        },
+        {
+            "name": "Bed of Chaos Trophy",
+            "type": "Silver trophy",
+            "description": "Acquire the Lord Soul from the Bed of Chaos."
+        },
+        {
+            "name": "Four Kings Trophy",
+            "type": "Silver trophy",
+            "description": "Acquire the Bequeathed Lord Soul from the Four Kings."
+        },
+        {
+            "name": "Seath the Scaleless Trophy",
+            "type": "Silver trophy",
+            "description": "Acquire the Bequeathed Lord Soul from Seath the Scaleless."
+        },
+        {
+            "name": "Dark Sun Gwyndolin Trophy",
+            "type": "Silver trophy",
+            "description": "Defeat the Darkmoon God, Dark Sun Gwyndolin."
+        },
+        {
+            "name": "Crossbreed Priscilla Trophy",
+            "type": "Silver trophy",
+            "description": "Defeat the Lifehunter, Crossbreed Priscilla."
+        }
+    ]
+}
