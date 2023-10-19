@@ -1,1 +1,513 @@
 
+{
+    "Armour_sets": [
+      {
+        "Name": "Adventurer's Set",
+        "Location": [
+          "Sold by Domhnall of Zena (both in the Depths and then under the aqueduct that leads to the Undead Burg)."
+        ],
+        "Notes": [
+          "Adventurer's Set cannot be upgraded.",
+          "Armor of the Glorious (chestpiece) and Gauntlets of the Vanquisher (arms) each reduce Stamina regeneration by 1 per second (2 for the total set)."
+        ]
+      },
+      {
+        "Name": "Antiquated Set",
+        "Location": [
+          "Sold by Griggs of Vinheim in Sen's Fortress."
+        ],
+        "Notes": [
+          "This set is often associated with Dusk of Oolacile."
+        ]
+      },
+      {
+        "Name": "Artorias' Set",
+        "Location": [
+          "DLC content: Found in Oolacile Township."
+        ],
+        "Notes": [
+          "This set is associated with Knight Artorias the Abysswalker."
+        ]
+      },
+      {
+        "Name": "Balder Set",
+        "Location": [
+          "Drops from Balder Knights in the Undead Parish."
+        ],
+        "Notes": [
+          "The Balder Knights are known for their exceptional swordsmanship."
+        ]
+      },
+      {
+        "Name": "Bandit Set",
+        "Location": [
+          "Starting equipment for the Bandit class.",
+          "Sold by Domhnall of Zena in the Depths."
+        ],
+        "Notes": [
+          "The Bandit class is known for its high Strength and Dexterity stats."
+        ]
+      },
+      {
+        "Name": "Big Hat's Set",
+        "Location": [
+          "Sold by Griggs of Vinheim in Sen's Fortress."
+        ],
+        "Notes": [
+          "Worn by Big Hat Logan, the great sorcerer."
+        ]
+      },
+      {
+        "Name": "Black Iron Set",
+        "Location": [
+          "Found in Anor Londo, near the Painted World of Ariamis annex."
+        ],
+        "Notes": [
+          "This massive iron set offers high defense but is extremely heavy."
+        ]
+      },
+      {
+        "Name": "Black Knight Set",
+        "Location": [
+          "Drops from Black Knights (various locations)."
+        ],
+        "Notes": [
+          "The Black Knights are powerful foes, and their set offers good fire resistance."
+        ]
+      },
+      {
+        "Name": "Black Set",
+        "Location": [
+          "Drops from the Black Knight guarding the Darkroot Garden area."
+        ],
+        "Notes": [
+          "The Black Knights are known for their greatswords and resilience."
+        ]
+      },
+      {
+        "Name": "Black Sorcerer Set",
+        "Location": [
+          "Sold by Griggs of Vinheim in Sen's Fortress."
+        ],
+        "Notes": [
+          "This set is typically worn by sorcerers with a preference for dark magic."
+        ]
+      },
+      {
+        "Name": "Brass Set",
+        "Location": [
+          "Sold by Domhnall of Zena in Anor Londo."
+        ],
+        "Notes": [
+          "A rare set of brass armor, notably worn by Lady Gwynevere."
+        ]
+      },
+      {
+        "Name": "Catarina Set",
+        "Location": [
+          "Found in Sen's Fortress."
+        ],
+        "Notes": [
+          "Worn by Siegmeyer of Catarina, known for his jovial nature."
+        ]
+      },
+      {
+        "Name": "Chain Set",
+        "Location": [
+          "Starting equipment for the Knight class."
+        ],
+        "Notes": [
+          "The Chain Set provides dependable, balanced defense."
+        ]
+      },
+      {
+        "Name": "Channeler Set",
+        "Location": [
+          "Found in the Duke's Archives."
+        ],
+        "Notes": [
+          "The channelers are scholars and sorcerers working for Seath the Scaleless."
+        ]
+      },
+      {
+        "Name": "Chester's Set",
+        "Location": [
+          "DLC content: Found in Oolacile Township."
+        ],
+        "Notes": [
+          "Worn by Marvelous Chester, a time-traveling guest from the future."
+        ]
+      },
+      {
+        "Name": "Cleric Set",
+        "Location": [
+          "Sold by Patches in Firelink Shrine after he relocates."
+        ],
+        "Notes": [
+          "The cleric class is devoted to Miracles and has a high Faith stat."
+        ]
+      },
+      {
+        "Name": "Crimson Set",
+        "Location": [
+          "Sold by Rhea of Thorolund after she relocates to the Duke's Archives."
+        ],
+        "Notes": [
+          "Rhea of Thorolund is a maiden on a mission from the Church."
+        ]
+      },
+      {
+        "Name": "Crystalline Set",
+        "Location": [
+          "Sold by Domhnall of Zena in the Depths."
+        ],
+        "Notes": [
+          "This set is both rare and highly durable."
+        ]
+      },
+      {
+        "Name": "Dark Set",
+        "Location": [
+          "Drops from the Darkwraiths in New Londo Ruins."
+        ],
+        "Notes": [
+          "Darkwraiths are known as the enemies of the Dark Sun Gwyndolin."
+        ]
+      },
+      {
+        "Name": "Dingy Set",
+        "Location": [
+          "Drops from Anastacia of Astora after she is killed."
+        ],
+        "Notes": [
+          "Anastacia of Astora is the mute Fire Keeper of Firelink Shrine."
+        ]
+      },
+      {
+        "Name": "Eastern Set",
+        "Location": [
+          "Drops from Shiva of the East in Blighttown (if you kill him)."
+        ],
+        "Notes": [
+          "Shiva of the East is a member of the Forest Hunter covenant."
+        ]
+      },
+      {
+        "Name": "Elite Knight Set",
+        "Location": [
+          "Starting equipment for the Knight class.",
+          "Drops from a Mimic chest in Anor Londo."
+        ],
+        "Notes": [
+          "This set is associated with the Elite Knight Oscar."
+        ]
+      },
+      {
+        "Name": "Favor Set",
+        "Location": [
+          "Obtained from Knight Lautrec after you defeat him in Anor Londo (if he is still alive)."
+        ],
+        "Notes": [
+          "Knight Lautrec is a key character in the story."
+        ]
+      },
+      {
+        "Name": "Giant Armor Set",
+        "Location": [
+          "Drops from Giant Sentinels in Anor Londo."
+        ],
+        "Notes": [
+          "The Giant Sentinels are formidable foes found in Anor Londo."
+        ]
+      },
+      {
+        "Name": "Gold-Hemmed Black Set",
+        "Location": [
+          "Drops from the Daughter of Chaos in Lost Izalith."
+        ],
+        "Notes": [
+          "The Daughter of Chaos is associated with the Chaos Servant covenant."
+        ]
+      },
+      {
+        "Name": "Great Lord Set",
+        "Location": [
+          "Drops from Gwyn, Lord of Cinder, after defeating him."
+        ],
+        "Notes": [
+          "Gwyn, Lord of Cinder, is the final boss of the game."
+        ]
+      },
+      {
+        "Name": "Gough's Set",
+        "Location": [
+          "DLC content: Found in Oolacile Township."
+        ],
+        "Notes": [
+          "Associated with Hawkeye Gough, a giant in the service of Lord Gwyn."
+        ]
+      },
+      {
+        "Name": "Guardian Set",
+        "Location": [
+          "Sold by Domhnall of Zena in the Royal Wood (DLC content)."
+        ],
+        "Notes": [
+          "The Guardian Set provides high poison resistance."
+        ]
+      },
+      {
+        "Name": "Gwyndolin Moonlight Set",
+        "Location": [
+          "DLC content: Found in Oolacile Township."
+        ],
+        "Notes": [
+          "Associated with Gwyndolin, the Dark Sun and youngest child of Lord Gwyn."
+        ]
+      },
+      {
+        "Name": "Havel's Set",
+        "Location": [
+          "Found in Anor Londo."
+        ],
+        "Notes": [
+          "Havel the Rock was a powerful warrior and a bishop of his own religion."
+        ]
+      },
+      {
+        "Name": "Hollow Soldier Set",
+        "Location": [
+          "Drops from Hollow Soldiers in various locations."
+        ],
+        "Notes": [
+          "The Hollow Soldiers were once soldiers of Balder, but they became hollow."
+        ]
+      },
+      {
+        "Name": "Hollow Thief Set",
+        "Location": [
+          "Drops from Hollow Thieves in the Lower Undead Burg."
+        ],
+        "Notes": [
+          "The Hollow Thieves were once thieves, but they became hollow."
+        ]
+      },
+      {
+        "Name": "Hollow Warrior Set",
+        "Location": [
+          "Drops from Hollow Warriors in various locations."
+        ],
+        "Notes": [
+          "The Hollow Warriors were once warriors of Balder, but they became hollow."
+        ]
+      },
+      {
+        "Name": "Holy Set",
+        "Location": [
+          "Sold by Patches in Firelink Shrine after he relocates."
+        ],
+        "Notes": [
+          "This set is associated with Patches the Hyena."
+        ]
+      },
+      {
+        "Name": "Hunter Set",
+        "Location": [
+          "Sold by Shiva of the East in Blighttown (if you join the Forest Hunter covenant)."
+        ],
+        "Notes": [
+          "The Forest Hunter covenant is led by Alvina."
+        ]
+      },
+      {
+        "Name": "Iron Golem Set",
+        "Location": [
+          "Drops from the Iron Golem boss in Sen's Fortress."
+        ],
+        "Notes": [
+          "The Iron Golem is the boss of Sen's Fortress."
+        ]
+      },
+      {
+        "Name": "Iron Set",
+        "Location": [
+          "Starting equipment for the Warrior class."
+        ],
+        "Notes": [
+          "This set offers high physical defense but is heavy."
+        ]
+      },
+      {
+        "Name": "Knight Set",
+        "Location": [
+          "Starting equipment for the Knight class."
+        ],
+        "Notes": [
+          "This set is a classic choice for knights."
+        ]
+      },
+      {
+        "Name": "Lord's Blades Set",
+        "Location": [
+          "Sold by Shiva of the East in Blighttown (if you join the Forest Hunter covenant)."
+        ],
+        "Notes": [
+          "This set is associated with Shiva of the East and his bodyguard, Ninja."
+        ]
+      },
+      {
+        "Name": "Maiden Set",
+        "Location": [
+          "Sold by Rhea of Thorolund in Firelink Shrine (after she relocates to the Duke's Archives)."
+        ],
+        "Notes": [
+          "This set is worn by Rhea of Thorolund, a maiden on a mission."
+        ]
+      },
+      {
+        "Name": "Ornstein's Set",
+        "Location": [
+          "Drops from Dragonslayer Ornstein and Executioner Smough boss fight in Anor Londo."
+        ],
+        "Notes": [
+          "Ornstein is one of Lord Gwyn's trusted knights and a Dragonslayer."
+        ]
+      },
+      {
+        "Name": "Painting Guardian Set",
+        "Location": [
+          "Drops from Painting Guardians in Anor Londo."
+        ],
+        "Notes": [
+          "The Painting Guardians are defenders of the Painted World of Ariamis."
+        ]
+      },
+      {
+        "Name": "Paladin Set",
+        "Location": [
+          "Drops from Reah of Thorolund and Petrus of Thorolund in Tomb of the Giants (if you kill them)."
+        ],
+        "Notes": [
+          "The Paladins are known for their faith and strength."
+        ]
+      },
+      {
+        "Name": "Pyromancer Set",
+        "Location": [
+          "Starting equipment for the Pyromancer class."
+        ],
+        "Notes": [
+          "This set is associated with the Pyromancer class, known for their fire spells."
+        ]
+      },
+      {
+        "Name": "Thorns Set",
+        "Location": [
+          "Starting equipment for the Bandit class."
+        ],
+        "Notes": [
+          "This set is known for causing damage to enemies on contact."
+        ]
+      },
+      {
+        "Name": "Shadow Set",
+        "Location": [
+          "Drops from Shiva of the East in Blighttown (if you join the Forest Hunter covenant)."
+        ],
+        "Notes": [
+          "This set is associated with the ninja Shiva of the East."
+        ]
+      },
+      {
+        "Name": "Silver Knight Set",
+        "Location": [
+          "Drops from Silver Knights (various locations)."
+        ],
+        "Notes": [
+          "The Silver Knights serve Gwyn, Lord of Cinder, and protect Anor Londo."
+        ]
+      },
+      {
+        "Name": "Smough's Set",
+        "Location": [
+          "Drops from Dragonslayer Ornstein and Executioner Smough boss fight in Anor Londo."
+        ],
+        "Notes": [
+          "Smough is an executioner who enjoys his cannibalistic tendencies."
+        ]
+      },
+      {
+        "Name": "Sorcerer Set",
+        "Location": [
+          "Sold by Griggs of Vinheim in Sen's Fortress."
+        ],
+        "Notes": [
+          "This set is associated with the Sorcerer class."
+        ]
+      },
+      {
+        "Name": "Steel Set",
+        "Location": [
+          "Sold by Domhnall of Zena in the Depths."
+        ],
+        "Notes": [
+          "This set is known for its sturdy construction."
+        ]
+      },
+      {
+        "Name": "Stone Knight Set",
+        "Location": [
+          "Drops from Stone Knights in Darkroot Garden."
+        ],
+        "Notes": [
+          "The Stone Knights protect the grave of Artorias."
+        ]
+      },
+      {
+        "Name": "Thief Set",
+        "Location": [
+          "Sold by Domhnall of Zena in the Depths."
+        ],
+        "Notes": [
+          "The Thief class is known for its high Dexterity and resistance to bleeding."
+        ]
+      },
+      {
+        "Name": "Wanderer Set",
+        "Location": [
+          "Starting equipment for the Wanderer class."
+        ],
+        "Notes": [
+          "The Wanderer class is known for its balanced stats."
+        ]
+      },
+      {
+        "Name": "Warrior Set",
+        "Location": [
+          "Starting equipment for the Warrior class."
+        ],
+        "Notes": [
+          "The Warrior class is known for its high Strength and Vitality stats."
+        ]
+      },
+      {
+        "Name": "Witch Set",
+        "Location": [
+          "Sold by Domhnall of Zena in the Depths."
+        ],
+        "Notes": [
+          "This set is associated with the Witch Beatrice."
+        ]
+      },
+      {
+        "Name": "Xanthous Set",
+        "Location": [
+          "Drops from Xanthous King, Jeremiah in Painted World of Ariamis."
+        ],
+        "Notes": [
+          "The Xanthous Set is known for its distinct yellow color."
+        ]
+      }
+    ]
+  }
+  
