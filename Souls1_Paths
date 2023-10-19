@@ -1,35 +1,48 @@
 {
-  "Regular Upgrade": {
-    "Usage": "Upgrade Regular weapons from +0 to +15. Regular ascension path allows weapon to increase base damage with STR and DEX scaling. This is suitable for long term use as it allows weapon to be repaired and thus the weapon will not break unlike crystal weapons."
-  },
-  "Crystal Upgrade": {
-    "Usage": "Upgrade Crystal weapons from +0 to +5. Crystal ascension path allows weapon to deal more physical damage than the regular weapons. Mainly, increasing STR and DEX scaling while reducing its durability. This is suitable for short-term use as the weapon breaks and cannot be repaired at +5."
-  },
-  "Raw Upgrade": {
-    "Usage": "Upgrade Raw weapons from +0 to +5. Raw ascension path allows weapon to deal more damage early in the game by increasing their base damage."
-  },
-  "Lightning Upgrade": {
-    "Usage": "Upgrade Lightning weapons from +0 to +5. Lightning ascension path allows weapon to deal Lightning Damage. This is popular in low level player vs player (PVP) as most armor and shields have low lightning defense."
-  },
-  "Magic Upgrade": {
-    "Usage": "Upgrade Magic weapons from +0 to +10. Magic ascension path allows weapon to deal Magic Damage and increase Intelligence stat. However, it reduces Dex and STR scaling."
-  },
-  "Enchanted Upgrade": {
-    "Usage": "Upgrade Enchanted weapons from +0 to +5. Enchanted ascension path allows weapon to deal Magic Damage and increase Intelligence stat at a higher rate than the magic upgrade path. However, it reduces Dex and STR severely."
-  },
-  "Divine Upgrade": {
-    "Usage": "Upgrade Divine weapons from +0 to +10. Divine ascension path allows weapon to deal Magic Damage, adds Divine Auxiliary Effects with increased Faith Scaling. However, it reduces Dex and STR scaling."
-  },
-  "Fire Upgrade": {
-    "Usage": "Upgrade Fire weapons from +0 to +10. Fire ascension path allows weapon to deal Fire Damage. However, it removes all stat scaling bonuses. Recommended for low level players with low stat."
-  },
-  "Occult Upgrade": {
-    "Usage": "Upgrade Occult weapons from +0 to +5. Occult ascension path allows weapon to deal Magic Damage, adds Occult Auxiliary Effects with increased Faith Scaling. However, it reduces Dex and STR scaling."
-  },
-  "Chaos Upgrade": {
-    "Usage": "Upgrade Chaos weapons from +0 to +5. Chaos ascension path allows weapon to deal Fire Damage and scales with Humanity but has no physical stat scaling. This is recommended for low level players with low stats."
-  },
-  "Unique Upgrade": {
-    "Usage": "Upgrade Unique weapons from +0 to +5. Unique Upgrade does not increase parameter bonus per upgrade level. It has a maximum upgrade to +5 that increases Base Damage greater than that of the regular weapons in terms of the damage output."
-  }
+  "Paths": [
+    {
+      "Upgrade Path": "Regular Upgrade",
+      "Usage": "Upgrade Regular weapons from +0 to +15. Regular ascension path allows weapon to increase base damage with STR and DEX scaling. This is suitable for long term use as it allows weapon to be repaired and thus the weapon will not break unlike crystal weapons."
+    },
+    {
+      "Upgrade Path": "Crystal Upgrade",
+      "Usage": "Upgrade Crystal weapons from +0 to +5. Crystal ascension path allows weapon to deal more physical damage than the regular weapons. Mainly, increasing STR and DEX scaling while reducing its durability. This is suitable for short-term use as the weapon breaks and cannot be repaired at +5."
+    },
+    {
+      "Upgrade Path": "Raw Upgrade",
+      "Usage": "Upgrade Raw weapons from +0 to +5. Raw ascension path allows weapon to deal more damage early in the game by increasing their base damage."
+    },
+    {
+      "Upgrade Path": "Lightning Upgrade",
+      "Usage": "Upgrade Lightning weapons from +0 to +5. Lightning ascension path allows weapon to deal Lightning Damage. This is popular in low level player vs player (PVP) as most armor and shields have low lightning defense."
+    },
+    {
+      "Upgrade Path": "Magic Upgrade",
+      "Usage": "Upgrade Magic weapons from +0 to +10. Magic ascension path allows weapon to deal Magic Damage and increase Intelligence stat. However, it reduces Dex and STR scaling."
+    },
+    {
+      "Upgrade Path": "Enchanted Upgrade",
+      "Usage": "Upgrade Enchanted weapons from +0 to +5. Enchanted ascension path allows weapon to deal Magic Damage and increase Intelligence stat at a higher rate than the magic upgrade path. However, it reduces Dex and STR severely."
+    },
+    {
+      "Upgrade Path": "Divine Upgrade",
+      "Usage": "Upgrade Divine weapons from +0 to +10. Divine ascension path allows weapon to deal Magic Damage, adds Divine Auxiliary Effects with increased Faith Scaling. However, it reduces Dex and STR scaling."
+    },
+    {
+      "Upgrade Path": "Fire Upgrade",
+      "Usage": "Upgrade Fire weapons from +0 to +10. Fire ascension path allows weapon to deal Fire Damage. However, it removes all stat scaling bonuses. Recommended for low level players with low stat."
+    },
+    {
+      "Upgrade Path": "Occult Upgrade",
+      "Usage": "Upgrade Occult weapons from +0 to +5. Occult ascension path allows weapon to deal Magic Damage, adds Occult Auxiliary Effects with increased Faith Scaling. However, it reduces Dex and STR scaling."
+    },
+    {
+      "Upgrade Path": "Chaos Upgrade",
+      "Usage": "Upgrade Chaos weapons from +0 to +5. Chaos ascension path allows weapon to deal Fire Damage and scales with Humanity but has no physical stat scaling. This is recommended for low level players with low stats."
+    },
+    {
+      "Upgrade Path": "Unique Upgrade",
+      "Usage": "Upgrade Unique weapons from +0 to +5. Unique Upgrade does not increase parameter bonus per upgrade level. It has a maximum upgrade to +5 that increases Base Damage greater than that of the regular weapons in terms of the damage output."
+    }
+  ]
 }
