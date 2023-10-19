@@ -1,1 +1,738 @@
-S
+{
+    "weapons": {
+        "daggers": [
+            {
+                "Name": "Dagger",
+                "Location": "Starting equipment for the Thief class. Sold by Undead Merchant (Female) in Undead Burg.",
+                "Notes": "A small, easily concealed dagger made for quick stabs."
+            },
+            {
+                "Name": "Ghost Blade",
+                "Location": "Dropped by Banshees in the New Londo Ruins.",
+                "Notes": "A ghostly dagger used by the ghosts of New Londo."
+            },
+            {
+                "Name": "Bandit's Knife",
+                "Location": "Starting equipment for the Bandit class. Also sold by Shiva of the East in Blighttown.",
+                "Notes": "Standard small dagger. When dual-wielded, one can utilize the chain attacks."
+            },
+            {
+                "Name": "Parrying Dagger",
+                "Location": "Found in Blighttown, on a ledge close to the wheel elevator. Requires a jump to reach.",
+                "Notes": "Dagger with a greatly curved guard. Used by swordsmen in pairs."
+            },
+            {
+                "Name": "Priscilla's Dagger",
+                "Location": "Obtained by cutting off Crossbreed Priscilla's tail. The tail has a chance to become the dagger upon cutting.",
+                "Notes": "Priscilla, the Dragon Crossbreed, can recover HP if you leave her tail intact. Her soul can be used to create unique weapon."
+            },
+            {
+                "Name": "Dark Silver Tracer",
+                "Location": "Dropped by Ciaran, one of Gwyn's Four Knights, in the Duke's Archives. You can also obtain it from Gough after defeating Manus.",
+                "Notes": "One of the rare weapons of the Darkwraiths. This weapon has a unique attack that inflicts both Magic and Humanity."
+            }
+        ],
+        "Straight Swords": [
+            {
+                "Name": "Straight Sword Hilt",
+                "Location": "Starting equipment for the Sorcerer class.",
+                "Notes": "A broken sword hilt that serves as a placeholder for the actual weapon."
+            },
+            {
+                "Name": "Broken Straight Sword",
+                "Location": "Starting equipment for the Pyromancer class.",
+                "Notes": "A broken and ineffective straight sword."
+            },
+            {
+                "Name": "Broadsword",
+                "Location": "Found in the Undead Parish. Dropped by Balder Knights.",
+                "Notes": "Standard straight sword. Dull, reliable, and all business."
+            },
+            {
+                "Name": "Shortsword",
+                "Location": "Starting equipment for the Warrior class. Sold by Domhnall of Zena in the Depths.",
+                "Notes": "A small and easily wielded straight sword."
+            },
+            {
+                "Name": "Longsword",
+                "Location": "Starting equipment for the Knight and Bandit classes. Sold by Andre of Astora in the Undead Parish.",
+                "Notes": "A standard, widely-used straight sword."
+            },
+            {
+                "Name": "Barbed Straight Sword",
+                "Location": "Dropped by Maneater Shells in Blighttown.",
+                "Notes": "A curved sword with sharp spikes on its blade."
+            },
+            {
+                "Name": "Sunlight Straight Sword",
+                "Location": "Obtained by offering 10 Sunlight Medals to the Altar of Sunlight. Requires joining the Warrior of Sunlight covenant.",
+                "Notes": "A straight sword imbued with the power of the sun. Scales with Faith."
+            },
+            {
+                "Name": "Balder Side Sword",
+                "Location": "Dropped by Balder Knights in the Undead Parish or Sen's Fortress.",
+                "Notes": "A well-crafted sword named after Balder, the homeland of the Knight King Rendal."
+            },
+            {
+                "Name": "Astora's Straight Sword",
+                "Location": "Found in the Valley of Drakes. Requires a Master Key to access it in a chest near the Undead Dragon.",
+                "Notes": "A rare and unique weapon, this sword is exclusive to Astora. It requires high Faith to wield effectively."
+            },
+            {
+                "Name": "Silver Knight Straight Sword",
+                "Location": "Dropped by Silver Knights in Anor Londo.",
+                "Notes": "A straight sword blessed by the Dark Sun, Gwyndolin."
+            },
+            {
+                "Name": "Drake Sword",
+                "Location": "Obtained by cutting off the Drake's tail in the Undead Parish with ranged attacks or after ringing the first Bell of Awakening.",
+                "Notes": "A dragon weapon from the tail of the drake at the Bridge."
+            },
+            {
+                "Name": "Darksword",
+                "Location": "Dropped by Darkwraiths in New Londo Ruins.",
+                "Notes": "The Darkwraiths, incited by Kaathe, use the dark sword, a weapon that is far more sinister than standard weapons."
+            },
+            {
+                "Name": "Crystal Straight Sword",
+                "Location": "Dropped by Crystal Hollows in the Duke's Archives. A non-renewable item.",
+                "Notes": "A straight sword with a crystalline blade."
+            }
+        ],
+        "Greatswords": [
+            {
+                "Name": "Bastard Sword",
+                "Location": "Found in the Undead Parish and Sen's Fortress.",
+                "Notes": "A standard greatsword. Very powerful for its weight."
+            },
+            {
+                "Name": "Black Knight Sword",
+                "Location": "Dropped by Black Knights in various locations.",
+                "Notes": "A greatsword born from the soul of the Black Dragon Kalameet. Known for its devastating power."
+            },
+            {
+                "Name": "Claymore",
+                "Location": "Found in the Undead Burg, on a bridge guarded by a Hellkite Drake.",
+                "Notes": "A very large greatsword. Effective against multiple foes."
+            },
+            {
+                "Name": "Flamberge",
+                "Location": "Dropped by the Flamberge-wielding Infested Ghouls in Blighttown.",
+                "Notes": "A greatsword with a flame design. This greatsword has a wavy, torch-like blade."
+            },
+            {
+                "Name": "Crystal Greatsword",
+                "Location": "Dropped by Crystal Hollows in the Duke's Archives. A non-renewable item.",
+                "Notes": "A greatsword with a crystalline blade."
+            },
+            {
+                "Name": "Man-Serpent Greatsword",
+                "Location": "Dropped by Serpent Soldiers in Sen's Fortress.",
+                "Notes": "A greatsword cut from the tail of a great serpent."
+            },
+            {
+                "Name": "Great Lord Greatsword",
+                "Location": "Acquired by joining the Blade of the Darkmoon covenant and advancing to the rank of +1. Rewards from Gwyndolin.",
+                "Notes": "A greatsword associated with Gwyn, the first Lord. It is the tail of Gwyn's firstborn son."
+            },
+            {
+                "Name": "Moonlight Greatsword",
+                "Location": "Obtained by cutting off Seath the Scaleless's tail in the Duke's Archives.",
+                "Notes": "A greatsword born from the mystical power of Seath The Scaleless."
+            },
+            {
+                "Name": "Greatsword of Artorias",
+                "Location": "Cursed version: Created by ascending any standard +10 greatsword or straight sword (e.g., Longsword, Broadsword, Bastard Sword, etc.) using the Soul of Sif. Uncursed version: Cursed version + Soul of Sif.",
+                "Notes": "Cursed version: The sword can be wielded by Artorias, the Abysswalker. This greatsword, bestowed only upon elite knights, is a relic of the ruined land of Oolacile. Cursed with the Darksign. Uncursed version: A greatsword born from the soul of Artorias, the Abysswalker. Its unique attack greatly reduces enemy poise."
+            },
+            {
+                "Name": "Stone Greatsword",
+                "Location": "Found in a hidden path in Darkroot Garden, behind a fake wall.",
+                "Notes": "A greatsword with a granite blade."
+            },
+            {
+                "Name": "Abyss Greatsword",
+                "Location": "Ascend any standard +10 greatsword or straight sword using the Soul of Artorias.",
+                "Notes": "A greatsword born from the soul of Artorias, the Abysswalker. Its unique attack greatly reduces enemy poise."
+            },
+            {
+                "Name": "Obsidian Greatsword",
+                "Location": "Obtained by cutting off the tail of the Black Dragon Kalameet",
+                "Notes": "A greatsword of unknown origin, highly resistant to fire, and blessed with the ability to perform a special, strong attack."
+            }
+        ],
+        "UltraGreatswords": [
+            {
+                "Name": "Dragon Greatsword",
+                "Location": "Located at Ash Lake. Near the everlasting dragon.",
+                "Notes": "This sword, one of the rare dragon weapons, is formed by a drake's tail."
+            },
+            {
+                "Name": "Greatsword",
+                "Location": "Dropped by Black Knights in the Kiln of the First Flame.",
+                "Notes": "An ordinary greatsword used by humans."
+            },
+            {
+                "Name": "Black Knight Greatsword",
+                "Location": "Dropped by Black Knights in various locations.",
+                "Notes": "A greatsword born from the soul of the Black Dragon Kalameet. Known for its devastating power."
+            },
+            {
+                "Name": "Zweihander",
+                "Location": "Found in the Firelink Shrine graveyard.",
+                "Notes": "A type of large greatsword normally wielded with two hands. Known for its strength."
+            },
+            {
+                "Name": "Demon Great Machete",
+                "Location": "Dropped by Capra Demons in the Demon Ruins.",
+                "Notes": "This giant machete has a slash attack, and is a worker's tool in the Undead Parish."
+            }
+        ],
+        "CurvedSwords": [
+            {
+                "Name": "Scimitar",
+                "Location": "Found in Blighttown.",
+                "Notes": "A curved sword with a finely-sharpened blade."
+            },
+            {
+                "Name": "Shotel",
+                "Location": "Dropped by Shiva of the East in Blighttown or can be purchased from him in the Darkroot Garden.",
+                "Notes": "Curved sword with a sharply curved blade. Can bypass defenses to deal damage."
+            },
+            {
+                "Name": "Falchion",
+                "Location": "Found in Blighttown.",
+                "Notes": "A standard curved sword. Lightweight with a large slashing area."
+            },
+            {
+                "Name": "Quelaag's Furysword",
+                "Location": "Created by ascending a +10 curved sword with the soul of Quelaag. Crafted by the Giant Blacksmith.",
+                "Notes": "Curved sword born from the soul of Quelaag, daughter of the Witch of Izalith."
+            },
+            {
+                "Name": "Painting Guardian Sword",
+                "Location": "Dropped by Painting Guardians in Anor Londo.",
+                "Notes": "Curved sword of the Painting Guardians, who protect the entrance to the painted world of Ariamis."
+            },
+            {
+                "Name": "Jagged Ghost Blade",
+                "Location": "Dropped by Female Ghosts in New Londo Ruins.",
+                "Notes": "Curved sword used by the ghostly Female Ghosts in New Londo."
+            },
+            {
+                "Name": "Gold Tracer",
+                "Location": "Acquired by killing Ciaran, the Lord's Blade, in the Artorias of the Abyss DLC.",
+                "Notes": "Curved sword used by Ciaran, a member of the Lord's Blades."
+            }
+        ],
+        "Katanas": [
+            {
+                "Name": "Uchigatana",
+                "Location": "Found in Blighttown.",
+                "Notes": "A katana of unknown origin with an unusually long blade."
+            },
+            {
+                "Name": "Washing Pole",
+                "Location": "Sold by Shiva of the East in Blighttown or found in Blighttown after killing him.",
+                "Notes": "An extremely long katana known for its long reach."
+            },
+            {
+                "Name": "Iaito",
+                "Location": "Located on the rafters above the main hall of Sen's Fortress.",
+                "Notes": "A katana with scabbard. A flowing single motion cuts both ways."
+            },
+            {
+                "Name": "Chaos Blade",
+                "Location": "Created by ascending a +10 katana with the Soul of Quelaag. Crafted by the Giant Blacksmith.",
+                "Notes": "A cursed katana that inflicts damage upon its wielder."
+            }
+        ],
+        "Curved Greatswords": [
+            {
+                "Name": "Server",
+                "Location": "Dropped by the Infested Barbarians in Blighttown.",
+                "Notes": "A large, curved sword used by the Infested Barbarians."
+            },
+            {
+                "Name": "Murakumo",
+                "Location": "Found in the Blighttown swamp, guarded by some Infested Barbarians.",
+                "Notes": "A large curved sword."
+            },
+            {
+                "Name": "Gravelord Sword",
+                "Location": "Dropped by Gravelord Nito in the Tomb of the Giants.",
+                "Notes": "Sword wielded only by servants of Gravelord Nito, the first of the dead."
+            }
+        ],
+        "Piercing Swords": [
+            {
+                "Name": "Rapier",
+                "Location": "Found in Sen's Fortress, on a corpse.",
+                "Notes": "Standard thrusting sword."
+            },
+            {
+                "Name": "Estoc",
+                "Location": "Found in the New Londo Ruins, on a corpse near the very large ember.",
+                "Notes": "An unconventional weapon choice for a respectable warrior."
+            },
+            {
+                "Name": "Mail Breaker",
+                "Location": "Found in the Undead Parish, in a chest near the Berenike Knight.",
+                "Notes": "Standard thrusting sword."
+            },
+            {
+                "Name": "Ricard's Rapier",
+                "Location": "Dropped by Ricard in Sen's Fortress.",
+                "Notes": "This weapon is shrouded in frost, and causes frostbite."
+            },
+            {
+                "Name": "Velka's Rapier",
+                "Location": "Acquired from the crow's nest in Firelink Shrine by trading with Snuggly the Crow.",
+                "Notes": "This weapon is shrouded in frost, and causes frostbite."
+            }
+        ],
+        "Axes": [
+            {
+                "Name": "Hand Axe",
+                "Location": "Starting equipment for the Bandit class. Sold by Andre of Astora in the Undead Parish.",
+                "Notes": "Small hand axe."
+            },
+            {
+                "Name": "Gargoyle Tail Axe",
+                "Location": "Dropped by Bell Gargoyles in the Undead Parish.",
+                "Notes": "Tail axe of the Bell Gargoyles."
+            },
+            {
+                "Name": "Battle Axe",
+                "Location": "Starting equipment for the Warrior class. Sold by Andre of Astora in the Undead Parish.",
+                "Notes": "A small hand axe."
+            },
+            {
+                "Name": "Butcher Knife",
+                "Location": "Dropped by the Maneater Mildred in the Blighttown swamp.",
+                "Notes": "Large cleaver that fully restores HP with each hit."
+            },
+            {
+                "Name": "Crescent Axe",
+                "Location": "Dropped by Patches the Hyena in Tomb of the Giants or by Trusty Patches in Firelink Shrine after he kicks you into the pit.",
+                "Notes": "A large crescent-shaped axe."
+            },
+            {
+                "Name": "Golem Axe",
+                "Location": "Obtained by cutting off the Stone Golem's arm in Anor Londo.",
+                "Notes": "Stone golem's core, which never broke."
+            }
+        ],
+        "Great Axes": [
+            {
+                "Name": "Demon's Greataxe",
+                "Location": "Dropped by Taurus Demons in the Demon Ruins.",
+                "Notes": "Greataxe of the Taurus Demon, known for its leaping attacks."
+            },
+            {
+                "Name": "Greataxe",
+                "Location": "Found in Blighttown, near the bonfire.",
+                "Notes": "An axe of the Taurus Demon, makes the wielder move with immense sloth."
+            },
+            {
+                "Name": "Dragon King Greataxe",
+                "Location": "Dropped by the Stone Dragon in Ash Lake.",
+                "Notes": "Axe born from the tail of the Stone Dragon of Ash Lake, descendant of the ancient dragons."
+            },
+            {
+                "Name": "Black Knight Greataxe",
+                "Location": "Dropped by Black Knights wielding it in various locations.",
+                "Notes": "Greataxe of the Black Knights who wander Lordran."
+            },
+            {
+                "Name": "Stone Greataxe",
+                "Location": "Acquired from the Stone Knight in Darkroot Garden or by the Stone Knight guarding the entrance to Darkroot Basin, near the Moonlight Butterfly.",
+                "Notes": "Large axe with a huge crescent-shaped blade."
+            }
+        ],
+        "Hammers": [
+            {
+                "Name": "Club",
+                "Location": "Starting equipment for the Warrior and Bandit classes.",
+                "Notes": "A simple wooden club."
+            },
+            {
+                "Name": "Reinforced Club",
+                "Location": "Dropped by Undead Attack Dogs in the Depths.",
+                "Notes": "A simple wooden club reinforced with a steel bar."
+            },
+            {
+                "Name": "Mace",
+                "Location": "Starting equipment for the Cleric class. Sold by Andre of Astora in the Undead Parish.",
+                "Notes": "A mace made for clerics."
+            },
+            {
+                "Name": "Morning Star",
+                "Location": "Sold by Patches the Hyena in the Tomb of the Giants.",
+                "Notes": "A spiked mace."
+            },
+            {
+                "Name": "Warpick",
+                "Location": "Sold by Andre of Astora after he has been given the Large Ember.",
+                "Notes": "Hammer of Vamos, a skilled blacksmith in the Catacombs."
+            },
+            {
+                "Name": "Pickaxe",
+                "Location": "Sold by Andre of Astora after he has been given the Large Ember.",
+                "Notes": "Standard pickaxe."
+            },
+            {
+                "Name": "Blacksmith Hammer",
+                "Location": "Dropped by the Blacksmith Giant in Anor Londo.",
+                "Notes": "Small hammer."
+            },
+            {
+                "Name": "Blacksmith Giant Hammer",
+                "Location": "Dropped by the Blacksmith Giant in Anor Londo.",
+                "Notes": "Giant hammer."
+            },
+            {
+                "Name": "Hammer of Vamos",
+                "Location": "Can be obtained by cutting off Vamos the Blacksmith's tail in the Catacombs.",
+                "Notes": "Huge hammer of Vamos, a skilled blacksmith in the Catacombs."
+            }
+        ],
+        "Great Hammers": [
+            {
+                "Name": "Demon's Great Hammer",
+                "Location": "Dropped by Taurus Demons in the Demon Ruins.",
+                "Notes": "Great hammer of the Taurus Demon, known for its leaping attack."
+            },
+            {
+                "Name": "Great Club",
+                "Location": "Found in Blighttown, near the bonfire.",
+                "Notes": "Club with nails."
+            },
+            {
+                "Name": "Large Club",
+                "Location": "Dropped by the Large Club-wielding Barbarians in Blighttown.",
+                "Notes": "Large wooden club."
+            },
+            {
+                "Name": "Dragon Tooth",
+                "Location": "Dropped by Havel the Rock in Anor Londo.",
+                "Notes": "Great hammer made of stone, associated with Havel the Rock."
+            },
+            {
+                "Name": "Smough's Hammer",
+                "Location": "Dropped by Executioner Smough in Anor Londo.",
+                "Notes": "Great hammer of Smough, the Executioner."
+            },
+            {
+                "Name": "Grant",
+                "Location": "Dropped by Paladin Leeroy in the Tomb of the Giants.",
+                "Notes": "Large wooden hammer associated with Paladin Leeroy."
+            }
+        ],
+        "Fist & Claw": [
+            {
+                "Name": "Caestus",
+                "Location": "Sold by Andre of Astora after he has been given the Large Ember.",
+                "Notes": "Simple weapon that straps to one's fists."
+            },
+            {
+                "Name": "Claws",
+                "Location": "Sold by Shiva of the East in Blighttown after he is killed.",
+                "Notes": "Grim, grotesque weapon used by Shiva of the East."
+            },
+            {
+                "Name": "Dragon Bone Fist",
+                "Location": "Dropped by the Undead Dragon in the Painted World of Ariamis.",
+                "Notes": "Dragon bone fist that wields its own buffed power."
+            },
+            {
+                "Name": "Dark Hand",
+                "Location": "Obtained from Darkwraiths in New Londo Ruins.",
+                "Notes": "The Dark Hand is a weapon that is also a special shield."
+            }
+        ],
+        "Spears": [
+            {
+                "Name": "Spear",
+                "Location": "Starting equipment for the Hunter class. Sold by Andre of Astora in the Undead Parish.",
+                "Notes": "Standard spear."
+            },
+            {
+                "Name": "Winged Spear",
+                "Location": "Sold by Shiva of the East in Blighttown after he is killed.",
+                "Notes": "Standard spear."
+            },
+            {
+                "Name": "Demon's Spear",
+                "Location": "Dropped by Bat Wing Demons in Anor Londo.",
+                "Notes": "Spear born from the tail of the Moonlight Butterfly."
+            },
+            {
+                "Name": "Pike",
+                "Location": "Found in Sen's Fortress, near the entrance to the roof.",
+                "Notes": "Large spear."
+            },
+            {
+                "Name": "Dragonslayer Spear",
+                "Location": "Soul of Ornstein + any spear or thrusting sword.",
+                "Notes": "Spear of Ornstein, Dragonslayer Knight who guards the cathedral in the forsaken city of Anor Londo."
+            },
+            {
+                "Name": "Partizan",
+                "Location": "Found in Sen's Fortress, in a chest near Siegmeyer of Catarina.",
+                "Notes": "Large, sweeping, thrusting weapon."
+            },
+            {
+                "Name": "Channeler's Trident",
+                "Location": "Dropped by the Channelers in the Duke's Archives.",
+                "Notes": "Trident of the Six-eyed Channelers, sorcerers who serve Seath the Scaleless."
+            },
+            {
+                "Name": "Silver Knight Spear",
+                "Location": "Dropped by Silver Knights in Anor Londo.",
+                "Notes": "Spear born from the soul of Ornstein."
+            },
+            {
+                "Name": "Moonlight Butterfly Horn",
+                "Location": "Soul of the Moonlight Butterfly + any spear or thrusting sword.",
+                "Notes": "Mystery weapon, born from the mystical Moonlight Butterfly."
+            },
+            {
+                "Name": "Four-pronged Plow",
+                "Location": "Dropped by Giant Sentinels in Anor Londo.",
+                "Notes": "Giant Four-Pronged Plow, born from the soul of the Giant Sentinel."
+            }
+        ],
+        "Halberds": [
+            {
+                "Name": "Halberd",
+                "Location": "Sold by Andre of Astora in the Undead Parish.",
+                "Notes": "A standard halberd."
+            },
+            {
+                "Name": "Gargoyle's Halberd",
+                "Location": "Dropped by Bell Gargoyles in the Undead Parish.",
+                "Notes": "Halberd of the Gargoyles, guardians of the Bell of Awakening."
+            },
+            {
+                "Name": "Titanite Catch Pole",
+                "Location": "Dropped by Prowling Demons in the Painted World of Ariamis.",
+                "Notes": "A pole that can be thrust like a spear."
+            },
+            {
+                "Name": "Black Knight Halberd",
+                "Location": "Dropped by Black Knights wielding it in various locations.",
+                "Notes": "Halberd of the Black Knights who wander Lordran."
+            },
+            {
+                "Name": "Great Scythe",
+                "Location": "Found in the Catacombs on a corpse near the first fog gate.",
+                "Notes": "Great scythe known for its use in harvesting."
+            },
+            {
+                "Name": "Lifehunt Scythe",
+                "Location": "Soul of Priscilla + any Scythe or Halberd.",
+                "Notes": "Scythe of Priscilla, the Halfbreed, who was born of the great white being that once served the gods."
+            },
+            {
+                "Name": "Scythe",
+                "Location": "Starting equipment for the Thief class. Sold by Shiva of the East in Blighttown after he is killed.",
+                "Notes": "Standard Scythe."
+            },
+            {
+                "Name": "Lucerne",
+                "Location": "Found in the Catacombs, in a room near the first fog gate.",
+                "Notes": "An ordinary hammer."
+            },
+            {
+                "Name": "Giant's Halberd",
+                "Location": "Dropped by Giant Sentinels in Anor Londo.",
+                "Notes": "Halberd of the Giant Sentinels, guards of Anor Londo."
+            }
+        ],
+        "Whips": [
+            {
+                "Name": "Whip",
+                "Location": "Found in Blighttown, near the water wheel.",
+                "Notes": "Standard whip."
+            },
+            {
+                "Name": "Notched Whip",
+                "Location": "Found in the Painted World of Ariamis, on a corpse near the Phalanx area.",
+                "Notes": "Whip with serrated blades."
+            },
+            {
+                "Name": "Guardian Tail",
+                "Location": "Cut off the Sanctuary Guardian's tail in the Royal Wood.",
+                "Notes": "Tail of the Sanctuary Guardian."
+            }
+        ],
+        "Bows": [
+            {
+                "Name": "Short Bow",
+                "Location": "Sold by Andre of Astora in the Undead Parish.",
+                "Notes": "Standard short bow."
+            },
+            {
+                "Name": "Longbow",
+                "Location": "Starting equipment for the Hunter class.",
+                "Notes": "Standard long bow."
+            },
+            {
+                "Name": "Composite Bow",
+                "Location": "Sold by Andre of Astora after he has been given the Large Ember.",
+                "Notes": "Small bow suitable for hunting."
+            },
+            {
+                "Name": "Black Bow of Pharis",
+                "Location": "Dropped by Pharis in the Darkroot Garden.",
+                "Notes": "Black long bow of Pharis, a master bowman."
+            },
+            {
+                "Name": "Darkmoon Bow",
+                "Location": "Soul of Gwyndolin + any bow.",
+                "Notes": "Catalyst for darkmoon sorceries."
+            }
+        ],
+        "Greatbows": [
+            {
+                "Name": "Dragonslayer Greatbow",
+                "Location": "Dropped by Dragonslayer Ornstein in Anor Londo.",
+                "Notes": "Greatbow of the Dragonslayers, led by Hawkeye Gough."
+            },
+            {
+                "Name": "Gough's Greatbow",
+                "Location": "Soul of Gough + any greatbow.",
+                "Notes": "Greatbow of Hawkeye Gough, one of Gwyn's Four Knights."
+            }
+        ],
+        "Crossbows": [
+            {
+                "Name": "Light Crossbow",
+                "Location": "Found in the Lower Undead Burg, near the Undead Merchant.",
+                "Notes": "Standard crossbow."
+            },
+            {
+                "Name": "Heavy Crossbow",
+                "Location": "Found in Sen's Fortress, near the first rolling boulder.",
+                "Notes": "A crossbow that is optimized for punishing foes."
+            },
+            {
+                "Name": "Sniper Crossbow",
+                "Location": "Dropped by Berenike Knights in Sen's Fortress.",
+                "Notes": "A favorite among bowmen."
+            },
+            {
+                "Name": "Avelyn",
+                "Location": "Treasure in the Painted World of Ariamis.",
+                "Notes": "A special triple crossbow."
+            }
+        ],
+        "Flames": [
+            {
+                "Name": "Pyromancy Flame",
+                "Location": "Starting equipment for the Pyromancer class.",
+                "Notes": "Catalyst for casting pyromancies."
+            },
+            {
+                "Name": "Pyromancy Flame (Upgraded)",
+                "Location": "Ascend a standard Pyromancy Flame +10 with Quelana of Izalith.",
+                "Notes": "Enhanced Pyromancy Flame."
+            }
+        ],
+        "Catalysts": [
+            {
+                "Name": "Sorcerer's Catalyst",
+                "Location": "Starting equipment for the Sorcerer class.",
+                "Notes": "Catalyst for casting sorceries."
+            },
+            {
+                "Name": "Izalith Catalyst",
+                "Location": "Dropped by Daughter of Chaos in Lost Izalith.",
+                "Notes": "Catalyst of the Witch of Izalith, mother of pyromancy and daughter of chaos."
+            },
+            {
+                "Name": "Logan's Catalyst",
+                "Location": "Dropped by Big Hat Logan in the Duke's Archives, or purchased from him after he goes hollow.",
+                "Notes": "Catalyst of Big Hat Logan, an ancient sorcerer."
+            },
+            {
+                "Name": "Beatrice's Catalyst",
+                "Location": "Obtained by summoning Witch Beatrice for the Moonlight Butterfly boss fight and defeating the boss.",
+                "Notes": "Catalyst of Beatrice, sorceress of the great Lord Gwyn, mentor of Solaire of Astora."
+            },
+            {
+                "Name": "Oolacile Ivory Catalyst",
+                "Location": "Sold by Dusk of Oolacile in Darkroot Basin.",
+                "Notes": "Catalyst of the sorceries of Oolacile, a land of ancient golden sorceries."
+            },
+            {
+                "Name": "Demon's Catalyst",
+                "Location": "Dropped by Taurus Demons in the Demon Ruins or purchased from Eingyi in Blighttown.",
+                "Notes": "Catalyst of the Demon Firesage, from the land of the demons."
+            },
+            {
+                "Name": "Tin Banishment Catalyst",
+                "Location": "Dropped by Patches the Hyena or purchased from him in the Tomb of the Giants.",
+                "Notes": "Catalyst for casting miracles."
+            },
+            {
+                "Name": "Tin Crystallization Catalyst",
+                "Location": "Soul of Seath the Scaleless + any catalyst.",
+                "Notes": "Catalyst crystallized by Seath the Scaleless."
+            },
+            {
+                "Name": "Tin Darkmoon Catalyst",
+                "Location": "Covenant reward from the Blades of the Darkmoon.",
+                "Notes": "Catalyst of the Darkmoon Knights, protectors of the gods."
+            },
+            {
+                "Name": "Oolacile Catalyst",
+                "Location": "Dropped by the Humanity Phantoms in Oolacile Township.",
+                "Notes": "Catalyst of the sorceries of Oolacile, a land of ancient sorceries."
+            },
+            {
+                "Name": "Manus Catalyst",
+                "Location": "Dropped by Manus, Father of the Abyss in the Artorias of the Abyss DLC.",
+                "Notes": "Catalyst of Manus, the primeval man."
+            }
+        ],
+        "Talismans": [
+            {
+                "Name": "Talisman",
+                "Location": "Starting equipment for the Cleric class.",
+                "Notes": "Catalyst for casting miracles."
+            },
+            {
+                "Name": "Canvas Talisman",
+                "Location": "Sold by Petrus of Thorolund in Firelink Shrine.",
+                "Notes": "Catalyst for casting miracles."
+            },
+            {
+                "Name": "Thorolund Talisman",
+                "Location": "Starting equipment for the Cleric class.",
+                "Notes": "Catalyst for casting miracles."
+            },
+            {
+                "Name": "Ivory Talisman",
+                "Location": "Sold by Oswald of Carim in the Undead Parish.",
+                "Notes": "Catalyst for casting miracles."
+            },
+            {
+                "Name": "Sunlight Talisman",
+                "Location": "Dropped by Solaire of Astora in Anor Londo.",
+                "Notes": "Catalyst for casting miracles."
+            },
+            {
+                "Name": "Velka's Talisman",
+                "Location": "Sold by Oswald of Carim in the Undead Parish.",
+                "Notes": "Catalyst for casting miracles."
+            },
+            {
+                "Name": "Darkmoon Talisman",
+                "Location": "Join the Blade of the Darkmoon covenant and achieve rank +1.",
+                "Notes": "Catalyst of the Darkmoon Knights, protectors of the gods."
+            }
+        ]
+    }
+}
