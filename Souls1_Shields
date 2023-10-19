@@ -1,0 +1,225 @@
+{
+    "shields": {
+        "Small_shields": [
+            {
+                "Name": "Small Leather Shield",
+                "Location": "Undead Burg",
+                "Notes": "This small shield can be found early in the game and provides basic protection."
+            },
+            {
+                "Name": "Leather Shield",
+                "Location": "Undead Burg, Sen's Fortress",
+                "Notes": "A slightly improved version of the Small Leather Shield, it offers decent protection."
+            },
+            {
+                "Name": "Target Shield",
+                "Location": "Sen's Fortress",
+                "Notes": "Known for its parrying capabilities, this shield is favored by those who rely on precise timing."
+            },
+            {
+                "Name": "Buckler",
+                "Location": "Undead Burg, Sen's Fortress",
+                "Notes": "Similar to the Target Shield, the Buckler is known for its parrying ability."
+            },
+            {
+                "Name": "Cracked Round Shield",
+                "Location": "New Londo Ruins",
+                "Notes": "An ordinary shield that provides minimal protection and is easily found in the early game."
+            },
+            {
+                "Name": "Warrior's Round Shield",
+                "Location": "New Londo Ruins",
+                "Notes": "This basic shield is favored by warriors and provides decent protection."
+            },
+            {
+                "Name": "Red & White Round Shield",
+                "Location": "Painted World of Ariamis",
+                "Notes": "Found in the Painted World, this shield offers unique aesthetics."
+            },
+            {
+                "Name": "Caduceus Round Shield",
+                "Location": "Tomb of the Giants",
+                "Notes": "A round shield with a distinctive design that can be found in a dark and treacherous location."
+            },
+            {
+                "Name": "Effigy Shield",
+                "Location": "Sen's Fortress",
+                "Notes": "This basic shield is useful in Sen's Fortress, an area filled with traps."
+            },
+            {
+                "Name": "Plank Shield",
+                "Location": "Blighttown",
+                "Notes": "Known for its resistance to poison, this shield is suitable for the challenging Blighttown area."
+            },
+            {
+                "Name": "Crystal Ring Shield",
+                "Location": "Ash Lake",
+                "Notes": "Found in the serene Ash Lake, this shield has unique properties and aesthetics."
+            }
+        ],
+        "standard_shields": [
+            {
+                "Name": "Gargoyle's Shield",
+                "Location": "Dropped by Bell Gargoyles in the Undead Parish.",
+                "Notes": "A heavy shield used by the Gargoyles of the Undead Parish, it can deflect spells and protect the wielder from airborne assaults."
+            },
+            {
+                "Name": "East-West Shield",
+                "Location": "Sold by Shiva of the East in Blighttown.",
+                "Notes": "A unique shield with unique capabilities."
+            },
+            {
+                "Name": "Wooden Shield",
+                "Location": "Starting equipment for several classes. Also found in the Undead Burg.",
+                "Notes": "A plain wooden shield that can be used to block physical damage."
+            },
+            {
+                "Name": "Large Leather Shield",
+                "Location": "Starting equipment for Bandit class. Sold by Domhnall of Zena in the Depths.",
+                "Notes": "A large, high stability leather shield."
+            },
+            {
+                "Name": "Heater Shield",
+                "Location": "Starting equipment for several classes. Sold by Undead Male Merchant in Undead Burg.",
+                "Notes": "A basic but reliable heater shield."
+            },
+            {
+                "Name": "Knight Shield",
+                "Location": "Starting equipment for Knight class.",
+                "Notes": "A shield with a Knight's Coat of Arms, it has high fire and lightning resistance."
+            },
+            {
+                "Name": "Tower Kite Shield",
+                "Location": "Sold by Andre of Astora in Sen's Fortress.",
+                "Notes": "A large wooden shield used by the proud knights of Berenike, known for their heavy armor and Black Iron Tarkus."
+            },
+            {
+                "Name": "Caduceus Kite Shield",
+                "Location": "Sold by Oswald of Carim.",
+                "Notes": "A small wooden shield decorated with a giant upward-pointing mace."
+            },
+            {
+                "Name": "Hollow Soldier Shield",
+                "Location": "Starting equipment for Warrior class.",
+                "Notes": "A common wooden shield used by soldiers."
+            },
+            {
+                "Name": "Balder Shield",
+                "Location": "Dropped by Balder Knights in Undead Parish or sold by Undead Male Merchant in Undead Burg.",
+                "Notes": "A Balder shield is a round shield with a unique, notched design."
+            },
+            {
+                "Name": "Sunlight Shield",
+                "Location": "Sold by Solaire of Astora in Anor Londo.",
+                "Notes": "Shield of Solaire of Astora, Knight of Sunlight."
+            },
+            {
+                "Name": "Iron Round Shield",
+                "Location": "Starting equipment for Bandit class.",
+                "Notes": "A simple round iron shield."
+            },
+            {
+                "Name": "Silver Knight Shield",
+                "Location": "Dropped by Silver Knights in Anor Londo.",
+                "Notes": "Shield of the Silver Knights of Anor Londo."
+            },
+            {
+                "Name": "Black Knight Shield",
+                "Location": "Dropped by Black Knights in Undead Burg, Undead Parish, or Kiln of the First Flame.",
+                "Notes": "A pitch-black wooden shield, on the small side."
+            },
+            {
+                "Name": "Pierce Shield",
+                "Location": "Starting equipment for Warrior class.",
+                "Notes": "Small metal shield."
+            },
+            {
+                "Name": "Spiked Shield",
+                "Location": "Sold by Shiva of the East in Blighttown.",
+                "Notes": "A unique shield with unique capabilities."
+            },
+            {
+                "Name": "Crest Shield",
+                "Location": "Dropped by Oscar, Knight of Astora in Undead Asylum, or in the Crystal Cave.",
+                "Notes": "A standard, widely used shield."
+            },
+            {
+                "Name": "Dragon Crest Shield",
+                "Location": "Sold by Shiva of the East in Blighttown.",
+                "Notes": "A standard, widely used shield."
+            },
+            {
+                "Name": "Grass Crest Shield",
+                "Location": "Located in Darkroot Basin, near Black Knight.",
+                "Notes": "The Grass Crest is lightly imbued with magic, which slightly speeds stamina recovery."
+            },
+            {
+                "Name": "Spider Shield",
+                "Location": "Located in the Depths, near the giant rat.",
+                "Notes": "An ordinary shield used by low-ranking knights."
+            },
+            {
+                "Name": "Bloodshield",
+                "Location": "Dropped by Crossbreed Priscilla in the Painted World of Ariamis.",
+                "Notes": "Shield bearing a large etching of a brilliant flame."
+            },
+            {
+                "Name": "Sanctus",
+                "Location": "Found in the Tomb of the Giants, after the first bonewheel skeleton and before the first fog gate.",
+                "Notes": "An especially hard leather shield, decorated with the holy symbol of the sun, which greatly reduces fire damage."
+            },
+            {
+                "Name": "Crystal Shield",
+                "Location": "Sold by Domhnall of Zena in the Depths.",
+                "Notes": "Small round crystal shield."
+            }
+        ],
+        "great_shields": [
+            {
+                "Name": "Bonewheel Shield",
+                "Location": "Dropped by Bonewheel Skeletons in the Painted World of Ariamis.",
+                "Notes": "An eerie-looking shield with a wheel attached to the central spike. It can be used to attack enemies."
+            },
+            {
+                "Name": "Tower Shield",
+                "Location": "Sold by Andre of Astora in Sen's Fortress.",
+                "Notes": "A giant, vertical greatshield used by the knights of the Cathedral of the Deep."
+            },
+            {
+                "Name": "Stone Greatshield",
+                "Location": "Sold by Shiva of the East in Blighttown.",
+                "Notes": "A great shield with an ominous face. It is said to repel all kinds of magic."
+            },
+            {
+                "Name": "Eagle Shield",
+                "Location": "Dropped by Berenike Knights in Sen's Fortress.",
+                "Notes": "A great shield with an eagle etched on its face. It greatly reduces lightning damage."
+            },
+            {
+                "Name": "Black Iron Greatshield",
+                "Location": "Dropped by Black Iron Tarkus in Sen's Fortress.",
+                "Notes": "Shield of Black Iron Tarkus, one of Gwyn's Four Knights, found in the heavy iron armor."
+            },
+            {
+                "Name": "Havel's Greatshield",
+                "Location": "Found in Anor Londo, behind an illusory wall. Obtainable after defeating Havel the Rock.",
+                "Notes": "Shield of Havel the Rock, cut from a boulder, provides great stability."
+            },
+            {
+                "Name": "Greatshield of Artorias",
+                "Location": "Created with any +10 shield (except Crystal Ring Shield), along with the Soul of Sif at the Giant Blacksmith.",
+                "Notes": "Created from the soul of Sif. It has a unique power: it can deflect spells."
+            },
+            {
+                "Name": "Giant Shield",
+                "Location": "Sold by the Giant Blacksmith in Anor Londo.",
+                "Notes": "One of the gigantic straight greatshields. This solid piece of iron can endure great punishment."
+            },
+            {
+                "Name": "Cleansing Greatshield",
+                "Location": "Created with any +10 shield, along with the Soul of Priscilla at the Giant Blacksmith.",
+                "Notes": "A greatshield used by the Warrior cleric. Imbued with a special power that greatly reduces dark damage."
+            }
+        ]
+    }
+}
