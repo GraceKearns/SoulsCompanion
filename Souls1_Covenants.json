@@ -1,6 +1,6 @@
 {
   "Covenants": {
-    "Co-op Covenants": [
+    "Co-opCovenants": [
       {
         "Name": "Warrior of Sunlight",
         "Location": "Join the Warriors of Sunlight covenant in the Undead Parish.",
@@ -41,7 +41,7 @@
         "Rewards": []
       }
     ],
-    "PvP Covenants": [
+    "PvPCovenants": [
       {
         "Name": "Darkwraith",
         "Location": "Join Darkwraiths covenant by speaking with Darkstalker Kaathe in the Abyss.",
@@ -168,7 +168,7 @@
         ]
       }
     ],
-    "Other Covenants": [
+    "OtherCovenants": [
       {
         "Name": "Chaos Servant",
         "Location": "Join the Chaos Servant covenant by speaking with Quelaag's Sister in Quelaag's Domain.",
