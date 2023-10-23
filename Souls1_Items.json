@@ -1,111 +1,111 @@
 {
     "unequippable": [
         {
-            "Item_Name": "Pendant",
+            "Name": "Pendant",
             "Details": "Appears to have no use. Can be chosen as a gift upon character creation. Dropped by Reah of Thorolund if Petrus kills her. Rare drop from invaders in Darkroot Garden. Can be traded with Snuggly for a Souvenir of Reprisal.",
             "Location": "Can be chosen as a gift upon character creation. Dropped by Reah of Thorolund if Petrus kills her. Rare drop from invaders in Darkroot Garden. Can be traded with Snuggly for a Souvenir of Reprisal."
         },
         {
-            "Item_Name": "Rubbish",
+            "Name": "Rubbish",
             "Details": "It has no value. Found by dropping down, to the area below, right in front of the first fog door in Undead Burg. Possible reward from defeating a trespasser while in the Forest Hunters. Can be traded with Snuggly for a Titanite Chunk.",
             "Location": "Found by dropping down in Undead Burg. Possible reward from defeating a trespasser while in the Forest Hunters. Can be traded with Snuggly for a Titanite Chunk."
         },
         {
-            "Item_Name": "Copper Coin",
+            "Name": "Copper Coin",
             "Details": "Coin made of copper. Its face shows an image of Old Man McLoyf, god of medicine and drink. Talk to Petrus of Thorolund a couple times before Reah arrives and he will give you one. Can be sold to Kingseeker Frampt for 1,000 souls.",
             "Location": "Given by Petrus of Thorolund when Reah arrives. Can be sold to Kingseeker Frampt for 1,000 souls."
         },
         {
-            "Item_Name": "Silver Coin",
+            "Name": "Silver Coin",
             "Details": "Coin made of silver, with the portrait of the legendary Knight King Rendal on its face. A Mimic in Anor Londo drops 5 of these. Can be sold to Kingseeker Frampt for 3,000 souls.",
             "Location": "Obtained from a Mimic in Anor Londo. Can be sold to Kingseeker Frampt for 3,000 souls."
         },
         {
-            "Item_Name": "Gold Coin",
+            "Name": "Gold Coin",
             "Details": "Coin made of gold, with Allfather Lloyd and his white halo shown on its face. Dropped by a Mimic in Anor Londo. Found on a body in the Painted World. Can be sold to Kingseeker Frampt for 5,000 souls.",
             "Location": "Dropped by a Mimic in Anor Londo. Found in the Painted World. Can be sold to Kingseeker Frampt for 5,000 souls."
         }
     ],
     "tools": [
         {
-            "Item_Name": "Skull Lantern",
+            "Name": "Skull Lantern",
             "Usage": "Holding it in the left hand (shield-hand) and holding L1 or LB causes it to light an area around the character like a torch.",
             "Location": "Drops from necromancers in Catacombs. It is also found in the Tomb of Giants. You will receive it at the lowest level of the area."
         },
         {
-            "Item_Name": "Binoculars",
+            "Name": "Binoculars",
             "Usage": "Using it as an item causes you to use the binoculars to see further. Can be used to aim Crossbows for long-distance shooting.",
             "Location": "Found in the Graveyard at Firelink Shrine. Can also be taken as a gift upon character creation."
         },
         {
-            "Item_Name": "Darksign",
+            "Name": "Darksign",
             "Usage": "Sends the user back to the last used bonfire upon death. Can be used as an item (unlimited uses) to warp back to the previous bonfire at any point, losing all souls and humanity.",
             "Location": "From the beginning"
         },
         {
-            "Item_Name": "Dragon Head Stone",
+            "Name": "Dragon Head Stone",
             "Usage": "Turns your head into one of a dragon.",
             "Location": "Gift from joining Path of the Dragon."
         },
         {
-            "Item_Name": "Dragon Torso Stone",
+            "Name": "Dragon Torso Stone",
             "Usage": "Turns you completely into a Dragonoid.",
             "Location": "Offer 30 Dragon Scales to the Everlasting Dragon."
         },
         {
-            "Item_Name": "Black Eye Orb",
+            "Name": "Black Eye Orb",
             "Usage": "Invade the world of the murderer of a firekeeper.",
             "Location": "Found on the corpse of the murdered firekeeper. It is used in Anor Londo."
         },
         {
-            "Item_Name": "Silver Pendant",
+            "Name": "Silver Pendant",
             "Usage": "Creates a field around the player that deflects Dark Magic for a few seconds. It is activated in a way similar to Force, though the player is able to move briefly whilst the pendant is still in effect.",
             "Location": "Found behind an illusory wall in Upper Oolacile Township, though unlike other illusory walls, it will require a light source of some sort to uncover. Skull Lantern, Cast Light spell and Sunlight Maggot are confirmed to work."
         }
     ],
     "boss_souls": [
         {
-            "Item_Name": "Soul of the Moonlight Butterfly",
+            "Name": "Soul of the Moonlight Butterfly",
             "Details": [
                 "Moonlight Butterfly Horn (Ascended from +10 spear weapons)",
                 "Crystal Ring Shield (Ascended from +10 shields) - 1,200 souls if consumed. Can also be sold to Kingseeker Frampt for 8,000 souls."
             ]
         },
         {
-            "Item_Name": "Soul of Quelaag",
+            "Name": "Soul of Quelaag",
             "Details": [
                 "Quelaag's Furysword (Ascended from +10 curved sword)",
                 "Chaos Blade (Ascended from +10 katana sword) - Gives 8,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls."
             ]
         },
         {
-            "Item_Name": "Core of an Iron Golem",
+            "Name": "Core of an Iron Golem",
             "Details": [
                 "Dragon Bone Fist (Ascended from +10 fist weapons)",
                 "Golem Axe (Ascended from +10 axe weapons) - Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 8,000 souls (less value)."
             ]
         },
         {
-            "Item_Name": "Soul of Gwyndolin",
+            "Name": "Soul of Gwyndolin",
             "Details": [
                 "Darkmoon Bow (Ascended from +10 bow weapons)",
                 "Tin Darkmoon Catalyst (Ascended from cane catalyst) - Gives 16,000 souls when consumed. Can also be sold to Kingseeker Frampt for 20,000 souls."
             ]
         },
         {
-            "Item_Name": "Soul of Ornstein",
+            "Name": "Soul of Ornstein",
             "Details": [
                 "Dragonslayer Spear (Ascended from +10 spear weapons) - Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 8,000 souls (less value)."
             ]
         },
         {
-            "Item_Name": "Soul of Smough",
+            "Name": "Soul of Smough",
             "Details": [
                 "Smough's Hammer (Ascended from +10 strike weapons) - Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 1 (one) soul (less value)."
             ]
         },
         {
-            "Item_Name": "Soul of (Great Wolf) Sif",
+            "Name": "Soul of (Great Wolf) Sif",
             "Details": [
                 "Greatsword of Artorias (Ascended from +10 Broken Straight Sword or Straight Sword Hilt)",
                 "Greatsword of Artorias (Cursed) (Ascended from +10 great sword weapons)",
@@ -113,33 +113,33 @@
             ]
         },
         {
-            "Item_Name": "Soul of Priscilla",
+            "Name": "Soul of Priscilla",
             "Details": [
                 "Lifehunt Scythe (Ascended from +10 scythe or whip weapons) - Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 15,000 souls."
             ]
         },
         {
-            "Item_Name": "Soul of Gwyn, Lord of Cinder",
+            "Name": "Soul of Gwyn, Lord of Cinder",
             "Details": [
                 "Great Lord Greatsword (Ascended from +10 greatsword weapons)",
                 "Sunlight Spear (10 Sunlight Medals at Sunlight Altar) - Gives 20,000 souls when consumed. Can also be sold to Kingseeker Frampt for 40,000 souls."
             ]
         },
         {
-            "Item_Name": "Guardian Soul",
+            "Name": "Guardian Soul",
             "Details": [
                 "(AotA Only) - Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls (less value)."
             ]
         },
         {
-            "Item_Name": "Soul of Artorias",
+            "Name": "Soul of Artorias",
             "Details": [
                 "(AotA Only) - Abyss Greatsword (Ascended from +10 greatsword weapons)",
                 "Dark Silver Tracer and Gold Tracer (give soul to Ciaran, or kill her) - Gives 16,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls (less value)."
             ]
         },
         {
-            "Item_Name": "Soul of Manus",
+            "Name": "Soul of Manus",
             "Details": [
                 "(AotA Only) - Manus Catalyst (Ascended from catalysts)",
                 "Pursuers (trade to Snuggly) - Gives 18,000 souls when consumed. Can also be sold to Kingseeker Frampt for 10,000 souls (less value)."
@@ -148,49 +148,49 @@
     ],
     "souls": [
         {
-            "Item_name": "Soul of a Lost Undead",
+            "Name": "Soul of a Lost Undead",
             "Usage": "Gives 200 souls when consumed. Can be sold to Frampt for 500 souls."
         },
         {
-            "Item_name": "Large Soul of a Lost Undead",
+            "Name": "Large Soul of a Lost Undead",
             "Usage": "Gives 400 souls when consumed. Can be sold to Frampt for 500 souls."
         },
         {
-            "Item_name": "Soul of a Nameless Soldier",
+            "Name": "Soul of a Nameless Soldier",
             "Usage": "Gives 800 souls when consumed."
         },
         {
-            "Item_name": "Large Soul of a Nameless Soldier",
+            "Name": "Large Soul of a Nameless Soldier",
             "Usage": "Gives 1,000 souls when consumed."
         },
         {
-            "Item_name": "Soul of a Proud Knight",
+            "Name": "Soul of a Proud Knight",
             "Usage": "Gives 2,000 souls when consumed."
         },
         {
-            "Item_name": "Large Soul of a Proud Knight",
+            "Name": "Large Soul of a Proud Knight",
             "Usage": "Gives 3,000 souls when consumed."
         },
         {
-            "Item_name": "Soul of a Brave Warrior",
+            "Name": "Soul of a Brave Warrior",
             "Usage": "Gives 5,000 souls when consumed."
         },
         {
-            "Item_name": "Large Soul of a Brave Warrior",
+            "Name": "Large Soul of a Brave Warrior",
             "Usage": "Gives 8,000 souls when consumed."
         },
         {
-            "Item_name": "Soul of a Hero",
+            "Name": "Soul of a Hero",
             "Usage": "Gives 10,000 souls when consumed."
         },
         {
-            "Item_name": "Soul of a Great Hero",
+            "Name": "Soul of a Great Hero",
             "Usage": "Gives 20,000 souls when consumed."
         }
     ],
     "projecticles": [
         {
-            "Item_name": "Firebomb",
+            "Name": "Firebomb",
             "Usage": "Throwable item. Deals AOE fire damage.",
             "Locations": [
                 "Dropped from Firebomb-throwing Hollow Warriors in the Undead Burg.",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "Item_name": "Black Firebomb",
+            "Name": "Black Firebomb",
             "Usage": "Throwable item. Deals heavy AOE fire damage.",
             "Locations": [
                 "Can be taken as a gift upon character creation. You receive 10 of these.",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "Item_name": "Dung Pie",
+            "Name": "Dung Pie",
             "Usage": "Throwable item. Inflicts toxic status on enemies and the user.",
             "Locations": [
                 "Dropped from Infested Barbarians in Blighttown.",
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "Item_name": "Throwing Knife",
+            "Name": "Throwing Knife",
             "Usage": "Projectile that deals light damage.",
             "Locations": [
                 "Dropped from Painting Guardians in Anor Londo.",
@@ -226,14 +226,14 @@
             ]
         },
         {
-            "Item_name": "Poison Throwing Knife",
+            "Name": "Poison Throwing Knife",
             "Usage": "Projectile that deals poison damage.",
             "Locations": [
                 "Purchased from Undead Merchant (Female) for 100 souls a piece."
             ]
         },
         {
-            "Item_name": "Alluring Skull",
+            "Name": "Alluring Skull",
             "Usage": "Throwable item. Attracts some enemies.",
             "Locations": [
                 "A body above the Armored Boar in the Undead Parish has 4 of these.",
@@ -242,7 +242,7 @@
             ]
         },
         {
-            "Item_name": "Lloyd's Talisman",
+            "Name": "Lloyd's Talisman",
             "Usage": "Throwable item. Prevents the use of Estus within the area of effect. Turns mimics back into chests.",
             "Locations": [
                 "Jump down the elevator shaft at Firelink Shrine. A chest there has 4 of these.",
@@ -253,7 +253,7 @@
     ],
     "ores": [
         {
-            "Item_Name": "Titanite Shard",
+            "Name": "Titanite Shard",
             "Usage": "Reinforce standard weapons to +5\nReinforce standard armor to +3",
             "Location": [
                 "Merchant: Blacksmith Andre (800 Souls)",
@@ -264,7 +264,7 @@
             ]
         },
         {
-            "Item_Name": "Large Titanite Shard",
+            "Name": "Large Titanite Shard",
             "Usage": "Reinforce standard weapons to +10, Raw weapons to +5\nReinforce standard armor to +6",
             "Location": [
                 "Merchant: Crestfallen Merchant (4,000 Souls)",
@@ -274,7 +274,7 @@
             ]
         },
         {
-            "Item_Name": "Titanite Chunk",
+            "Name": "Titanite Chunk",
             "Usage": "Reinforce standard weapons to +14, Crystal and Lightning weapons to +4, Reinforce standard armor to +9",
             "Location": [
                 "Drops from: Crystal Lizards, Black Knights, Darkwraith Knights, Sen's Fortress Giants (Bomber and the one through the secret door), Anor Londo's Royal Sentinel (the two just before the Ornstein and Smough boss fight).",
@@ -282,7 +282,7 @@
             ]
         },
         {
-            "Item_Name": "Titanite Slab",
+            "Name": "Titanite Slab",
             "Usage": "Reinforce standard weapons to +15, Crystal and Lightning weapons to +5, Reinforce standard armor to +10",
             "Location": [
                 "Drops from: Crystal Lizards, Stray Demon (on return), Darkwraith Knights (rare drop).",
@@ -291,7 +291,7 @@
             ]
         },
         {
-            "Item_Name": "Green Titanite Shard",
+            "Name": "Green Titanite Shard",
             "Usage": "Reinforce Magic, Divine, and Fire weapons to +5",
             "Location": [
                 "Merchant: Giant Blacksmith (4,800 Souls)",
@@ -301,7 +301,7 @@
             ]
         },
         {
-            "Item_Name": "Blue Titanite Chunk",
+            "Name": "Blue Titanite Chunk",
             "Usage": "Reinforce Magic weapons to +9, Enchanted weapons to +4",
             "Location": [
                 "Drops from: Crystal Golems, the last of Black Knights in Kiln of the First Flame.",
@@ -309,7 +309,7 @@
             ]
         },
         {
-            "Item_Name": "Blue Titanite Slab",
+            "Name": "Blue Titanite Slab",
             "Usage": "Reinforce Magic weapons to +10, Enchanted weapons to +5",
             "Location": [
                 "Drops from: Moonlight Butterflies in Crystal Cave (rare drop).",
@@ -318,7 +318,7 @@
             ]
         },
         {
-            "Item_Name": "Red Titanite Chunk",
+            "Name": "Red Titanite Chunk",
             "Usage": "Reinforce Fire weapons to +9, Chaos weapons to +4",
             "Location": [
                 "Drops from: Chaos Bugs, Chaos Eaters beneath the collapsed floor in Lost Izalith, Black Knights in Kiln of the First Flame.",
@@ -326,7 +326,7 @@
             ]
         },
         {
-            "Item_Name": "Red Titanite Slab",
+            "Name": "Red Titanite Slab",
             "Usage": "Reinforce Fire weapons to +10, Chaos weapons to +5",
             "Location": [
                 "Drops from: Chaos Eaters beneath the collapsed floor in Lost Izalith (rare drop).",
@@ -335,7 +335,7 @@
             ]
         },
         {
-            "Item_Name": "White Titanite Chunk",
+            "Name": "White Titanite Chunk",
             "Usage": "Reinforce Divine weapons to +9, Occult weapons to +4",
             "Location": [
                 "Drops from: Black Knights in Kiln of the First Flame, Bone Towers (rare drop).",
@@ -343,7 +343,7 @@
             ]
         },
         {
-            "Item_Name": "White Titanite Slab",
+            "Name": "White Titanite Slab",
             "Usage": "Reinforce Divine weapons to +10, Occult weapons to +5",
             "Location": [
                 "Drops from: Pinwheel Servants (rare drop).",
@@ -352,7 +352,7 @@
             ]
         },
         {
-            "Item_Name": "Twinkling Titanite",
+            "Name": "Twinkling Titanite",
             "Usage": "Reinforce non-infusable weapons and rare armor to +5",
             "Location": [
                 "Merchant: Giant Blacksmith (8,000 souls)",
@@ -361,7 +361,7 @@
             ]
         },
         {
-            "Item_Name": "Demon Titanite",
+            "Name": "Demon Titanite",
             "Usage": "Reinforce weapons made with Boss Souls to +5",
             "Location": [
                 "Drops from: Titanite Demons (2x for the respawning one in Lost Izalith and non-respawning Demon in Anor Londo, 1x for the rest).",
@@ -370,7 +370,7 @@
             ]
         },
         {
-            "Item_Name": "Dragon Scale",
+            "Name": "Dragon Scale",
             "Usage": "Reinforce Dragon weapons to +5",
             "Location": [
                 "Drops from: Drakes (rare drop), Hydras, Black Hydras, Undead Dragons.",
@@ -381,35 +381,35 @@
     ],
     "multiplayer_items": [
         {
-            "Item_Name": "Orange Guidance Soapstone",
+            "Name": "Orange Guidance Soapstone",
             "Usage": "Online play item used to write and rate messages left by other players.",
             "Location": [
                 "Purchased from the Undead Merchant for 100 souls."
             ]
         },
         {
-            "Item_Name": "White Sign Soapstone",
+            "Name": "White Sign Soapstone",
             "Usage": "Online play item used to leave summon sign for cooperative play.",
             "Location": [
                 "Gift from Solaire of Astora"
             ]
         },
         {
-            "Item_Name": "Black Separation Crystal",
+            "Name": "Black Separation Crystal",
             "Usage": "The crystal sends phantoms back to their homes, or sends you back to yours.",
             "Location": [
                 "From the beginning"
             ]
         },
         {
-            "Item_Name": "Red Sign Soapstone",
+            "Name": "Red Sign Soapstone",
             "Usage": "Online play item used to leave summon sign for competitive play.",
             "Location": [
                 "This item is found in the Painted World of Ariamis."
             ]
         },
         {
-            "Item_Name": "Cracked Red Eye Orb",
+            "Name": "Cracked Red Eye Orb",
             "Usage": "This consumable item will allow you to invade another player's world.",
             "Location": [
                 "Purchased from Darkstalker Kaathe or found throughout the world.",
@@ -417,14 +417,14 @@
             ]
         },
         {
-            "Item_Name": "Red Eye Orb",
+            "Name": "Red Eye Orb",
             "Usage": "This reusable item allows the player to invade another player's world.",
             "Location": [
                 "You receive this item after ranking up once with the Darkwraith covenant, you may only use this as long as you are part of the covenant."
             ]
         },
         {
-            "Item_Name": "Blue Eye Orb",
+            "Name": "Blue Eye Orb",
             "Usage": "Invade the world of a sinner.",
             "Location": [
                 "Received for joining the Blade of the Dark Moon covenant.",
@@ -432,42 +432,42 @@
             ]
         },
         {
-            "Item_Name": "Dried Finger",
+            "Name": "Dried Finger",
             "Usage": "Resets invasion timer.",
             "Location": [
                 "Found in Painted World of Ariamis"
             ]
         },
         {
-            "Item_Name": "Book of the Guilty",
+            "Name": "Book of the Guilty",
             "Usage": "Online play item. Checklist of indicted players.",
             "Location": [
                 "Purchased from Oswald of Carim for 1,000 souls."
             ]
         },
         {
-            "Item_Name": "Indictment",
+            "Name": "Indictment",
             "Usage": "Online play item. Indict invader.",
             "Location": [
                 "Purchased from Oswald of Carim for 200 souls."
             ]
         },
         {
-            "Item_Name": "Servant Roster",
+            "Name": "Servant Roster",
             "Usage": "Check servants of the Daughters of Chaos.",
             "Location": [
                 "Sold by Eingyi."
             ]
         },
         {
-            "Item_Name": "Dragon Eye",
+            "Name": "Dragon Eye",
             "Usage": "Invade world of possessor of Dragon Scale.",
             "Location": [
                 "Obtained by joining Covenant Path of the Dragon"
             ]
         },
         {
-            "Item_Name": "Eye Of Death",
+            "Name": "Eye Of Death",
             "Usage": "Lure Phantoms from other worlds.",
             "Location": [
                 "Dropped from the Basilisks (fairly common following patch 1.05) in the Depths and The Great Hollow.",
@@ -475,7 +475,7 @@
             ]
         },
         {
-            "Item_Name": "Sunlight Medal",
+            "Name": "Sunlight Medal",
             "Usage": "Used to rank up in Covenant Warriors of Sunlight",
             "Location": [
                 "If a boss is defeated while a Warrior of Sunlight covenant member has been summoned, everyone involved (host, covenant member, and any other friendly summons) will receive 1 medal. The covenant member must be a summons; if the host is a member but none of the summons are no medal will be received.",
@@ -484,7 +484,7 @@
             ]
         },
         {
-            "Item_Name": "Souvenir of Reprisal",
+            "Name": "Souvenir of Reprisal",
             "Usage": "Used to rank up in Covenant Blades of the Darkmoon",
             "Location": [
                 "Use the Black Eye Orb to kill Knight Lautrec and you will receive 1 of this item.",
@@ -493,7 +493,7 @@
             ]
         },
         {
-            "Item_Name": "Purple Coward's Crystal",
+            "Name": "Purple Coward's Crystal",
             "Usage": "Online play item used to exit Battle of Stoicism. (AotA Only)",
             "Location": [
                 "Received after joining Battle of Stoicism."
@@ -502,145 +502,145 @@
     ],
     "keys": [
         {
-            "Item_Name": "Master Key",
+            "Name": "Master Key",
             "Found Location": "Gotten by choosing it as a gift, or the thief class, at the start of the game. Buy it for 5,000 souls from Domhnall of Zena after he moves under the bridge by Firelink Shrine.",
             "Unlocks Location": "Unlocks many locks in the early areas. See which locks it opens in the MK section to the right, or on the Master Key page.",
             "Master Key Unlocks": "MK"
         },
         {
-            "Item_Name": "Dungeon Cell Key",
+            "Name": "Dungeon Cell Key",
             "Found Location": "Northern Undead Asylum. On corpse dropped into cell.",
             "Unlocks Location": "Northern Undead Asylum. Cell door.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Undead Asylum F2 East Key",
+            "Name": "Undead Asylum F2 East Key",
             "Found Location": "Undead Asylum. Gift from half-dead knight.",
             "Unlocks Location": "Undead Asylum. Door behind boulder trap.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Undead Asylum F2 West Key",
+            "Name": "Undead Asylum F2 West Key",
             "Found Location": "Firelink Shrine. Roof of building flooded with water. Accessible after unlocking lift to Undead Church.",
             "Unlocks Location": "Unread Asylum. Open the door guarded by Elite Undead, leads to Rusted Iron Ring.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Big Pilgrim's Key",
+            "Name": "Big Pilgrim's Key",
             "Found Location": "Dropped by Asylum Demon.",
             "Unlocks Location": "Undead Asylum. Exit Asylum.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Residence Key",
+            "Name": "Residence Key",
             "Found Location": "Undead Burg. Bought from Undead Merchant.",
             "Unlocks Location": "Access 3x Gold Pine Resin in a residence in Undead Burg. Frees Griggs of Vinheim in Lower Undead Burg.",
             "Master Key Unlocks": "Yes"
         },
         {
-            "Item_Name": "Mystery Key",
+            "Name": "Mystery Key",
             "Found Location": "Found behind the first ladder (after armored boar) in Undead Parish.",
             "Unlocks Location": "Frees Lautrec. Behind a breakable door, on the second floor of the Undead Church.",
             "Master Key Unlocks": "Yes"
         },
         {
-            "Item_Name": "Basement Key",
+            "Name": "Basement Key",
             "Found Location": "Found on steps to Undead Church, right behind the big gate.",
             "Unlocks Location": "Unlocks small door at the start of the Hellkite bridge, leading to the Lower Undead Burg.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Key to Depths",
+            "Name": "Key to Depths",
             "Found Location": "Lower Undead Burg. Dropped by Capra Demon.",
             "Unlocks Location": "Unlocks door to the Depths. Go down stairs by the Capra location, the door is at the bottom of the tower by two thieves.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Sewer Chamber Key",
+            "Name": "Sewer Chamber Key",
             "Found Location": "Depths. On a corpse in the room with the giant rat. The key is also accessible from the other side of the iron bars.",
             "Unlocks Location": "Unlocks Bonfire room in the first slime-hallway in Depths.",
             "Master Key Unlocks": "Yes"
         },
         {
-            "Item_Name": "Blighttown Key",
+            "Name": "Blighttown Key",
             "Found Location": "Depths. Dropped by Gaping Dragon.",
             "Unlocks Location": "Unlocks Blighttown. Huge doors beside Domhnall of Zena (sewer merchant) in Depths.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Watchtower Basement Key",
+            "Name": "Watchtower Basement Key",
             "Found Location": "Darkroot Garden. On top of the tower, after crossing the Moonlight Butterfly bridge.",
             "Unlocks Location": "Unlock shortcut between Undead Burg and Darkroot Basin, guarded by Havel.",
             "Master Key Unlocks": "Yes"
         },
         {
-            "Item_Name": "Key to New Londo Ruins",
+            "Name": "Key to New Londo Ruins",
             "Found Location": "Blighttown. In Chest at the end of the cave, when entering from Valley of Drakes.",
             "Unlocks Location": "Unlocks shortcut between New Londo Ruins and Valley of Drakes.",
             "Master Key Unlocks": "Yes"
         },
         {
-            "Item_Name": "Key to the Seal",
+            "Name": "Key to the Seal",
             "Found Location": "New Londo Ruins. Gift from Ingward after getting the Lordvessel. He will also drop it if killed.",
             "Unlocks Location": "Access lower New Londo, Valley of Drakes (2nd entrance), and The Abyss.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Cage Key",
+            "Name": "Cage Key",
             "Found Location": "Sen's Fortress. At the bottom of the tower with Crestfallen Merchant. Jump across the broken bridge to access tower.",
             "Unlocks Location": "Unlocks hidden cages in Sen's Fortress. Free Logan and a Hero Soul. Unlocks cage elevator in Sen's Fortress.",
             "Master Key Unlocks": "Yes"
         },
         {
-            "Item_Name": "Archive Tower Cell Key",
+            "Name": "Archive Tower Cell Key",
             "Found Location": "The Duke's Archives. Dropped by sleeping snake-head guard.",
             "Unlocks Location": "Opens prison in Archive Tower. Opens third door down from bonfire.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Archive Prison Extra Key",
+            "Name": "Archive Prison Extra Key",
             "Found Location": "The Duke's Archives. Found on corpse after dropping down from cell 3 to 4.",
             "Unlocks Location": "Opens the other cell doors in Archive Tower. Also opens second door in the Bonfire cell, and shortcut to gramophone.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Archive Tower Giant Door Key",
+            "Name": "Archive Tower Giant Door Key",
             "Found Location": "The Duke's Archives. Found in chest behind gramophone.",
             "Unlocks Location": "Exit Archive Tower.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Archive Tower Giant Cell Key",
+            "Name": "Archive Tower Giant Cell Key",
             "Found Location": "The Duke's Archives. Found in chest at the bottom of Archives, by the exit to the Crystal Cave.",
             "Unlocks Location": "Opens cell behind the Pisacas. Free Big Hat Logan.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Annex Key",
+            "Name": "Annex Key",
             "Found Location": "Found in dungeon in Painted World of Ariamis.",
             "Unlocks Location": "Opens Annex in Painted World. Get Dark Ember.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Crest of Artorias",
+            "Name": "Crest of Artorias",
             "Found Location": "Bought from Blacksmith Andre for 20,000 souls. Dropped by Blacksmith Andre.",
             "Unlocks Location": "Opens the sealed gate within Darkroot Garden.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Peculiar Doll",
+            "Name": "Peculiar Doll",
             "Found Location": "Found inside jail cell, in the Undead Asylum, when returning.",
             "Unlocks Location": "Access Painted World of Ariamis.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Broken Pendant",
+            "Name": "Broken Pendant",
             "Found Location": "Dropped by the Crystal Golem at the entrance to the Duke's Archives. Dusk of Oolacile must have been rescued for the Crystal Golem to appear. (AotA only)",
             "Unlocks Location": "Access Lost Oolacile from the Darkroot Basin.",
             "Master Key Unlocks": "No"
         },
         {
-            "Item_Name": "Crest Key",
+            "Name": "Crest Key",
             "Found Location": "Found inside a chest in Oolacile Township, near a lit fireplace. (AotA only)",
             "Unlocks Location": "Access Hawkeye Gough.",
             "Master Key Unlocks": "No"
@@ -722,13 +722,13 @@
     "consumables": [
         {
             "ID": 2005,
-            "Item_Name": "Estus Flask",
+            "Name": "Estus Flask",
             "Usage": "Used to gather Estus at bonfires for HP recovery in the field",
             "Location": "Obtained in the Undead Asylum, behind a broken wall."
         },
         {
             "ID": 2112,
-            "Item_Name": "Humanity",
+            "Name": "Humanity",
             "Usage": "Increases Humanity by 1 and restores a large amount of HP when consumed",
             "Location": [
                 "Purchased from the Undead Merchant (Female) for 5,000 souls (1 in stock)",
@@ -741,7 +741,7 @@
         },
         {
             "ID": 2113,
-            "Item_Name": "Twin Humanities",
+            "Name": "Twin Humanities",
             "Usage": "Increases Humanity by 2 and restores a very large amount of HP when consumed",
             "Location": [
                 "Can be taken as a gift upon character creation",
@@ -751,13 +751,13 @@
         },
         {
             "ID": 2130,
-            "Item_Name": "Fire Keeper Soul",
+            "Name": "Fire Keeper Soul",
             "Usage": "Used to upgrade Estus Flask to heal more HP per flask. Can also be used as an item to gain 5 Humanity (NOT recommended)",
             "Location": "Can be found in a few locations or taken off the corpses of dead Firekeepers if you kill them"
         },
         {
             "ID": 2012,
-            "Item_Name": "Divine Blessing",
+            "Name": "Divine Blessing",
             "Usage": "Healing Item which restores all health and removes all negative status ailments except for Curse",
             "Location": [
                 "Can be taken as a gift upon character creation",
@@ -767,7 +767,7 @@
         },
         {
             "ID": 2042,
-            "Item_Name": "Prism Stone",
+            "Name": "Prism Stone",
             "Usage": "Used to determine height and lethality of a fall",
             "Location": [
                 "20 can be found off a body near the Crystal Cave",
@@ -778,7 +778,7 @@
     ],
     "Embers": [
         {
-            "Item_Name": "Large Ember",
+            "Name": "Large Ember",
             "Location": [
                 "Depths. Found in a chest behind the first Butcher in the kitchen."
             ],
@@ -786,7 +786,7 @@
             "Blacksmith": "Andre"
         },
         {
-            "Item_Name": "Very Large Ember",
+            "Name": "Very Large Ember",
             "Location": [
                 "New Londo Ruins. After lowering the water level, go up the staircase found in a corner of the room with the Mass of Souls closest to Valley of Drakes. Ember is on the third floor."
             ],
@@ -794,7 +794,7 @@
             "Blacksmith": "Andre"
         },
         {
-            "Item_Name": "Divine Ember",
+            "Name": "Divine Ember",
             "Location": [
                 "Darkroot Garden. After defeating the Moonlight Butterfly, continue across the bridge and up to the top of the tower. The ember is held by a petrified Blacksmith."
             ],
@@ -802,7 +802,7 @@
             "Blacksmith": "Andre"
         },
         {
-            "Item_Name": "Large Divine Ember",
+            "Name": "Large Divine Ember",
             "Location": [
                 "Among several giant skeletons inside a tomb, in Tomb of Giants, above the first bonfire. The ember is held by a petrified Blacksmith."
             ],
@@ -810,7 +810,7 @@
             "Blacksmith": "Andre"
         },
         {
-            "Item_Name": "Dark Ember",
+            "Name": "Dark Ember",
             "Location": [
                 "Found after unlocking the Annex in Painted World of Ariamis. The ember is held by a petrified Blacksmith."
             ],
@@ -818,7 +818,7 @@
             "Blacksmith": "Andre"
         },
         {
-            "Item_Name": "Large Magic Ember",
+            "Name": "Large Magic Ember",
             "Location": [
                 "The Duke's Archives. After defeating Seath the Scaleless, return to the archives where you first confronted it and open the chest."
             ],
@@ -826,7 +826,7 @@
             "Blacksmith": "Rickert"
         },
         {
-            "Item_Name": "Enchanted Ember",
+            "Name": "Enchanted Ember",
             "Location": [
                 "Located at the heart of the Darkroot Garden, between the cats and Alvinas' tower. It is stored inside a treasure chest, in shallow water, guarded by big mushrooms. If you attack a small mushroom it will lead you to the big mushrooms."
             ],
@@ -834,7 +834,7 @@
             "Blacksmith": "Rickert"
         },
         {
-            "Item_Name": "Crystal Ember",
+            "Name": "Crystal Ember",
             "Location": [
                 "The Duke's Archives. Behind some bookshelves in the archives, in the room with stairs leading down to the garden and the Crystal Cave."
             ],
@@ -842,7 +842,7 @@
             "Blacksmith": "Giant Blacksmith"
         },
         {
-            "Item_Name": "Large Flame Ember",
+            "Name": "Large Flame Ember",
             "Location": [
                 "In the Demon Ruins, after descending the great stairs, taking the left path before walking up to the fog-gate will ultimately lead to the Ember."
             ],
@@ -850,7 +850,7 @@
             "Blacksmith": "Blacksmith Vamos"
         },
         {
-            "Item_Name": "Chaos Flame Ember",
+            "Name": "Chaos Flame Ember",
             "Location": [
                 "Demon Ruins. After killing Ceaseless Discharge, and then all the Taurus Demons after the lava flows away below. The Ember is on a corpse in the former lava bed."
             ],
@@ -860,7 +860,7 @@
     ],
     "ammunition": [
         {
-            "Item_Name": "Standard Arrow",
+            "Name": "Standard Arrow",
             "phy": 45,
             "magi": 0,
             "fire": 0,
@@ -875,7 +875,7 @@
             ]
         },
         {
-            "Item_Name": "Large Arrow",
+            "Name": "Large Arrow",
             "phy": 60,
             "magi": 0,
             "fire": 0,
@@ -890,7 +890,7 @@
             ]
         },
         {
-            "Item_Name": "Feather Arrow",
+            "Name": "Feather Arrow",
             "phy": 50,
             "magi": 0,
             "fire": 0,
@@ -903,7 +903,7 @@
             ]
         },
         {
-            "Item_Name": "Fire Arrow",
+            "Name": "Fire Arrow",
             "phy": 35,
             "magi": 0,
             "fire": 50,
@@ -914,7 +914,7 @@
             ]
         },
         {
-            "Item_Name": "Poison Arrow",
+            "Name": "Poison Arrow",
             "phy": 42,
             "magi": 0,
             "fire": 0,
@@ -925,7 +925,7 @@
             ]
         },
         {
-            "Item_Name": "Moonlight Arrow",
+            "Name": "Moonlight Arrow",
             "phy": 0,
             "magi": 80,
             "fire": 0,
@@ -936,7 +936,7 @@
             ]
         },
         {
-            "Item_Name": "Wooden Arrow",
+            "Name": "Wooden Arrow",
             "phy": 35,
             "magi": 0,
             "fire": 0,
@@ -950,7 +950,7 @@
             ]
         },
         {
-            "Item_Name": "Dragonslayer Arrow",
+            "Name": "Dragonslayer Arrow",
             "phy": 100,
             "magi": 0,
             "fire": 0,
@@ -961,7 +961,7 @@
             ]
         },
         {
-            "Item_Name": "Gough's Great Arrow",
+            "Name": "Gough's Great Arrow",
             "phy": 105,
             "magi": 0,
             "fire": 0,
@@ -972,7 +972,7 @@
             ]
         },
         {
-            "Item_Name": "Standard Bolt",
+            "Name": "Standard Bolt",
             "phy": 48,
             "magi": 0,
             "fire": 0,
@@ -987,7 +987,7 @@
             ]
         },
         {
-            "Item_Name": "Heavy Bolt",
+            "Name": "Heavy Bolt",
             "phy": 64,
             "magi": 0,
             "fire": 0,
@@ -1002,7 +1002,7 @@
             ]
         },
         {
-            "Item_Name": "Sniper Bolt",
+            "Name": "Sniper Bolt",
             "phy": 53,
             "magi": 0,
             "fire": 0,
@@ -1013,7 +1013,7 @@
             ]
         },
         {
-            "Item_Name": "Wood Bolt",
+            "Name": "Wood Bolt",
             "phy": 38,
             "magi": 0,
             "fire": 0,
@@ -1027,7 +1027,7 @@
             ]
         },
         {
-            "Item_Name": "Lightning Bolt",
+            "Name": "Lightning Bolt",
             "phy": 38,
             "magi": 0,
             "fire": 0,
