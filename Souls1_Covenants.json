@@ -5,36 +5,40 @@
         "Name": "Warrior of Sunlight",
         "Location": "Join the Warriors of Sunlight covenant in the Undead Parish.",
         "Notes": "Increase in covenant rank through successful cooperative multiplayer sessions using the White Sign Soapstone.",
-        "Rank Rewards": {
-          "Rank0": {
+        "RewardsR": [
+          {
+            "Rank": "rank0",
             "Medals": 0,
             "Rewards": ["Sunlight Medal"]
           },
-          "Rank1": {
+          {
+            "Rank": "rank1",
             "Medals": 10,
             "Rewards": ["Lightning Spear", "Great Lightning Spear", "Sunlight Spear (requires 50 Faith)"]
           },
-          "Rank2": {
+          {
+            "Rank": "rank2",
             "Medals": 30,
             "Rewards": []
           },
-          "Rank3": {
+          {
+            "Rank": "rank3",
             "Medals": 80,
             "Rewards": []
           }
-        }
+        ]
       },
       {
         "Name": "Princess Guard",
         "Location": "Obtain the Covenant of the Princess by joining Gwynevere's covenant in Anor Londo.",
         "Notes": "Princess Guard is a unique covenant that focuses on protecting Princess Gwynevere. Covenant members can use unique miracles.",
-        "Rank Rewards": {}
+        "RewardsR": []
       },
       {
         "Name": "Way of White",
         "Location": "Automatically joined upon character creation.",
         "Notes": "Way of White is a starting covenant and offers benefits such as easier matchmaking for cooperative play.",
-        "Rank Rewards": {}
+        "RewardsR": []
       }
     ],
     "PvPCovenants": [
@@ -42,108 +46,126 @@
         "Name": "Darkwraith",
         "Location": "Join Darkwraiths covenant by speaking with Darkstalker Kaathe in the Abyss.",
         "Notes": "Darkwraiths are focused on invading other players' worlds and stealing humanity.",
-        "Rank Rewards": {
-          "Rank0": {
+        "RewardsR": [
+          {
+            "Rank": "rank0",
             "Medals": 0,
             "Rewards": ["Dark Hand"]
           },
-          "Rank1": {
+          {
+            "Rank": "rank1",
             "Medals": 10,
             "Rewards": ["Red Eye Orb (allows indefinite invasions)", "Dark Hand steals 3 humanity"]
           },
-          "Rank2": {
+          {
+            "Rank": "rank2",
             "Medals": 30,
             "Rewards": ["Darksword and Darkwraith Armor Set", "Dark Hand steals 6 humanity"]
           },
-          "Rank3": {
+          {
+            "Rank": "rank3",
             "Medals": 80,
             "Rewards": ["Dark Hand steals 10 humanity"]
           }
-        }
+        ]
       },
       {
         "Name": "Forest Hunter",
         "Location": "Join the Forest Hunter covenant by speaking with Alvina in the Darkroot Garden.",
         "Notes": "Forest Hunters are focused on invading trespassers in the Darkroot Garden area.",
-        "Rank Rewards": {
-          "Rank0": {
+        "RewardsR": [
+          {
+            "Rank": "rank0",
             "Medals": 0,
             "Rewards": ["Divine Blessing", "After a loading screen Alvina talks about Shiva and the distrust she has in him."]
           },
-          "Rank1": {
+          {
+            "Rank": "rank1",
             "Medals": 10,
             "Rewards": []
           }
-        }
+        ]
       },
       {
         "Name": "Path of the Dragon",
         "Location": "Join the Path of the Dragon covenant by offering scales to Everlasting Dragon in Ash Lake.",
         "Notes": "Path of the Dragon covenant allows players to gain Dragon Head and Torso Stones, enabling unique dragon abilities.",
-        "Rank Rewards": {
-          "Rank0": {
+        "RewardsR": [
+          {
+            "Rank": "rank0",
             "Medals": 0,
             "Rewards": ["Dragon Eye and Dragon Head Stone acquired"]
           },
-          "Rank1": {
+          {
+            "Rank": "rank1",
             "Medals": 10,
             "Rewards": ["Dragon Head Stone flame damage increases", "Dragon Torso Stone roar increases in range and the attack buff becomes 27.5%"]
           },
-          "Rank2": {
+          {
+            "Rank": "rank2",
             "Medals": 30,
             "Rewards": ["Dragon Torso Stone acquired", "Dragon Head Stone flame damage increases", "Dragon Torso Stone roar increases in range and the attack buff becomes 30%"]
           },
-          "Rank3": {
+          {
+            "Rank": "rank3",
             "Medals": 80,
             "Rewards": ["Dragon Head Stone flame damage increases", "Dragon Torso Stone roar increases in range and the attack buff becomes 35%"]
           }
-        }
+        ]
       },
       {
         "Name": "Blade of the Dark Moon",
         "Location": "Join the Blade of the Dark Moon covenant by speaking with Gwyndolin in Anor Londo.",
         "Notes": "Blade of the Dark Moon members are tasked with avenging those who have been wronged and protecting Gwyndolin.",
-        "Rank Rewards": {
-          "Rank0": {
+        "RewardsR": [
+          {
+            "Rank": "rank0",
             "Medals": 0,
             "Rewards": ["Blue Eye Orb", "Darkmoon Blade Covenant Ring"]
           },
-          "Rank1": {
+          {
+            "Rank": "rank1",
             "Medals": 10,
             "Rewards": ["Darkmoon Blade", "Darkmoon Talisman"]
           },
-          "Rank2": {
+          {
+            "Rank": "rank2",
             "Medals": 30,
             "Rewards": ["Darkmoon Blade Miracle power increases to 2.0 * Magic Adjust"]
           },
-          "Rank3": {
+          {
+            "Rank": "rank3",
             "Medals": 80,
             "Rewards": ["Darkmoon Blade Miracle power increases a second time to 2.1 * Magic Adjust"]
           }
-        }
+        ]
       },
       {
         "Name": "Gravelord Servant",
         "Location": "Join the Gravelord Servant covenant by speaking with Gravelord Nito in the Catacombs.",
         "Notes": "Gravelord Servants infect other players' worlds with stronger enemies to engage in unique player vs. environment (PvE) gameplay.",
-        "Rank Rewards": {
-          "Rank0": {
+        "RewardsR": [
+          {
+            "Rank": "rank0",
             "Medals": 0,
             "Rewards": ["Gravelord Sword", "Miracle: Gravelord Sword Dance (2 uses)"]
           },
-          "Rank1": {
+          {
+            "Rank": "rank1",
             "Medals": 10,
             "Rewards": ["Miracle: Gravelord Greatsword Dance (2 uses)", "10% damage bonus to both Gravelord sword miracles"]
           },
-          "Rank2": {
+          {
+            "Rank": "rank2",
             "Medals": 30,
             "Rewards": ["20% damage bonus to both Gravelord sword miracles"]
           },
-          "Rank3": {
+          {
+            "Rank": "rank3",
             "Medals": 80,
             "Rewards": ["30% damage bonus to both Gravelord sword miracles"]
           }
-        }
+        ]
       }
     ],
     "OtherCovenants": [
@@ -151,24 +173,28 @@
         "Name": "Chaos Servant",
         "Location": "Join the Chaos Servant covenant by speaking with Quelaag's Sister in Quelaag's Domain.",
         "Notes": "Chaos Servant is focused on offering Humanity to advance the covenant and unlock shortcuts in the game.",
-        "Rank Rewards": {
-          "Rank0": {
+        "RewardsR": [
+          {
+            "Rank": "0",
             "Humanity Offered": 0,
             "Reward": "Upon joining, receive Great Chaos Fireball"
           },
-          "Rank1": {
+          {
+            "Rank": "1",
             "Humanity Offered": 10,
             "Reward": "Nothing"
           },
-          "Rank2": {
+          {
+            "Rank": "2",
             "Humanity Offered": 30,
             "Reward": "Receive Chaos Storm and can open the shortcut to Lost Izalith."
           },
-          "Rank3": {
+          {
+            "Rank": "3",
             "Humanity Offered": 80,
             "Reward": "Nothing"
           }
-        }
+        ]
       }
     ]
   }
