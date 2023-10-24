@@ -1,549 +1,551 @@
 {
-    "Sorceries": [
-        {
-            "Name": "Soul Arrow",
-            "Uses": 30,
-            "Slots": 1,
-            "Intelligence": 10,
-            "Description": "Fires a magical projectile. Excellent starting spell which does very good damage against most enemies in the early game areas.",
-            "Location": [
-                "Griggs of Vinheim 1,000 souls",
-                "Big Hat Logan 1,000 souls",
-                "Blacksmith Rickert of Vinheim 2,000 souls"
-            ],
-            "Type": "Ranged Magic Attack"
-        },
-        {
-            "Name": "Big Hat Logan",
-            "Uses": 20,
-            "Slots": 1,
-            "Intelligence": 14,
-            "Description": "Stronger soul arrow, same cast time as soul arrow, fewer uses.",
-            "Location": [
-                "Griggs of Vinheim 6,000 souls",
-                "Big Hat Logan 6,000 souls"
-            ],
-            "Type": "Ranged Magic Attack"
-        },
-        {
-            "Name": "Heavy Soul Arrow",
-            "Uses": 12,
-            "Slots": 1,
-            "Intelligence": 12,
-            "Description": "Stronger than greater soul arrow, longer casting time.",
-            "Location": [
-                "Griggs of Vinheim 2,000 souls",
-                "Big Hat Logan 2,000 souls",
-                "Blacksmith Rickert of Vinheim 4,000 souls"
-            ],
-            "Type": "Ranged Magic Attack"
-        },
-        {
-            "Name": "Great Heavy Soul Arrow",
-            "Uses": 8,
-            "Slots": 1,
-            "Intelligence": 16,
-            "Description": "Stronger than heavy soul arrow, fewer uses. Has a slow cast time, but deals a tremendous amount of damage, even against bosses.",
-            "Location": [
-                "Griggs of Vinheim 8,000 souls",
-                "Big Hat Logan 8,000 souls"
-            ],
-            "Type": "Ranged Magic Attack"
-        },
-        {
-            "Name": "Homing Soulmass",
-            "Uses": 10,
-            "Slots": 1,
-            "Intelligence": 18,
-            "Description": "Fires multiple, homing magic projectiles. Can be successfully cast without an initial 'lock on'. Multiple soul arrows will hover above the player.",
-            "Location": [
-                "Big Hat Logan 20,000 souls",
-                "Griggs of Vinheim 20,000 souls"
-            ],
-            "Type": "Ranged Magic Attack"
-        },
-        {
-            "Name": "Homing Crystal Soulmass",
-            "Uses": 10,
-            "Slots": 1,
-            "Intelligence": 24,
-            "Description": "Fires multiple, homing crystal projectiles. Can be successfully cast without an initial 'lock on'. Multiple crystal arrows will hover above the player.",
-            "Location": [
-                "Big Hat Logan 30,000 souls"
-            ],
-            "Type": "Ranged Magic Attack"
-        },
-        {
-            "Name": "Soul Spear",
-            "Uses": 4,
-            "Slots": 1,
-            "Intelligence": 36,
-            "Description": "Fire piercing soul spear.",
-            "Location": [
-                "Big Hat Logan 40,000 souls",
-                "Griggs of Vinheim 40,000 souls"
-            ],
-            "Type": "Ranged Magic Attack"
-        },
-        {
-            "Name": "Crystal Soul Spear",
-            "Uses": 4,
-            "Slots": 1,
-            "Intelligence": 44,
-            "Description": "Fire an even more powerful, piercing ranged attack.",
-            "Location": [
-                "Big Hat Logan 50,000 souls"
-            ],
-            "Type": "Ranged Magic Attack"
-        },
-        {
-            "Name": "White Dragon Breath",
-            "Uses": 20,
-            "Slots": 1,
-            "Intelligence": 50,
-            "Description": "A straight line of crystals pop out of the ground in front of you, shooting towards your target. One advantage of this spell is that it will take out large groups of enemies if they are lined up one behind the other. It has a medium cast time, but once it fires, it will take out anything in its path. 20 casts make this a great high level replacement for the soul arrow at high levels, as it's not as useful on most bosses.",
-            "Location": [
-                "Big Hat Logan (drop)"
-            ],
-            "Type": "Ranged Magic Attack"
-        }
-    ],
-    "Pyromancies": [
-        {
-            "Name": "Fireball",
-            "Uses": 8,
-            "Slots": 1,
-            "Description": "Standard pyromancy of the Great Swamp. Hurl fireball.",
-            "Location": [
-                "Laurentius (800 souls)",
-                "Quelana",
-                "Starting spell for the Pyromancer class."
-            ],
-            "Type": "Ranged Attack",
-            "Very Small AOE": true
-        },
-        {
-            "Name": "Fire Orb",
-            "Uses": 6,
-            "Slots": 1,
-            "Description": "Pyromancy which improves upon Fireball. Hurl fire orb.",
-            "Location": [
-                "Laurentius",
-                "Quelana (8,000 souls)"
-            ],
-            "Type": "Ranged Attack",
-            "Small AOE": true
-        },
-        {
-            "Name": "Great Fireball",
-            "Uses": 4,
-            "Slots": 1,
-            "Description": "Ultimate fireball pyromancy. Hurl giant fireball.",
-            "Location": [
-                "Quelana (20,000 souls)"
-            ],
-            "Type": "Ranged Attack",
-            "AOE": true
-        },
-        {
-            "Name": "Great Chaos Fireball",
-            "Uses": 4,
-            "Slots": 2,
-            "Description": "Hurl giant chaos fireball, leaving a large amount of temporary lava",
-            "Location": [
-                "Joining Chaos Servant covenant (Daughter of Chaos after Quelaag) (Covenant)"
-            ],
-            "Type": "Ranged AoE Attack"
-        },
-        {
-            "Name": "Firestorm",
-            "Uses": 20,
-            "Slots": 1,
-            "Description": "Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity. Note: Uses 17 uses per cast.",
-            "Location": [
-                "Quelana (30,000 souls)"
-            ],
-            "Type": "Big AoE Attack"
-        },
-        {
-            "Name": "Fire Tempest",
-            "Uses": 20,
-            "Slots": 1,
-            "Description": "Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity. Note: Uses 17 uses per cast.",
-            "Location": [
-                "Quelana gives it to you after finishing her favor (Gift/Drop)"
-            ],
-            "Type": "Big AoE Attack"
-        },
-        {
-            "Name": "Chaos Storm",
-            "Uses": 20,
-            "Slots": 2,
-            "Description": "Erect localized chaos fire pillars which leave blobs of temporary lava Note: Like firestorm and leaves a little lava behind.",
-            "Location": [
-                "Rank 2 in Chaos Servant (30 humanities total) (Covenant)"
-            ],
-            "Type": "Big AoE Attack"
-        },
-        {
-            "Name": "Combustion",
-            "Uses": 16,
-            "Slots": 1,
-            "Description": "Elementary pyromancy. Create powerful flame in hand Note: Good 'melee' range spell, very quick too.",
-            "Location": [
-                "Laurentius (500 souls)",
-                "Quelana (5,000 souls)"
-            ],
-            "Type": "Melee Range Attack"
-        },
-        {
-            "Name": "Fire Surge",
-            "Uses": 80,
-            "Slots": 1,
-            "Description": "Pyromancy foreign to the Great Swamp. Create a surge of flame from palm of hand. Note: Rapid fire spell you can cast while moving.",
-            "Location": [
-                "Drop from the Bloated Dredge located after passing two illusory walls under the well, in Painted World of Ariamis (Drop)"
-            ],
-            "Type": "Short-Ranged Attack"
-        },
-        {
-            "Name": "Fire Whip",
-            "Uses": 80,
-            "Slots": 1,
-            "Description": "Primal pyromancy taught by Quelana of Izalith. Sweep foes with fire whip. Note: Uses 21 uses per cast. Note: Hits twice/cast.",
-            "Location": [
-                "Quelana (10,000 souls)"
-            ],
-            "Type": "Short-Ranged Attack"
-        },
-        {
-            "Name": "Chaos Fire Whip",
-            "Uses": 80,
-            "Slots": 2,
-            "Description": "Sweep foes with chaos fire whip with lava traces Note: Leaves lava behind for a bit. Follows same mechanics as Fire Whip.",
-            "Location": [
-                "Chest in Lost Izalith - turn right at the boss fog, it is down the path and around the corner guarded by a Chaos Eater (Treasure)"
-            ],
-            "Type": "Short-Ranged Attack"
-        },
-        {
-            "Name": "Poison Mist",
-            "Uses": 3,
-            "Slots": 1,
-            "Description": "Breathes out a cone of poison mist that fills the surrounding area causing poison status.",
-            "Location": [
-                "Swamp in Blighttown (10,000 souls)",
-                "Eingyi, the Egg-burdened NPC near the Daughter of Chaos sells this. (You need to be an Egg-head to be able to purchase this.)"
-            ],
-            "Type": "AoE"
-        },
-        {
-            "Name": "Toxic Mist",
-            "Uses": 1,
-            "Slots": 1,
-            "Description": "Breathes out a cone of toxic mist that fills the surrounding area causing toxic status.",
-            "Location": [
-                "Eingyi, the Egg Burdened NPC near the Daughter of Chaos. (You need to be an Egg-head to be able to purchase this.) (25,000 souls)"
-            ],
-            "Type": "AoE"
-        },
-        {
-            "Name": "Acid Surge",
-            "Uses": 2,
-            "Slots": 1,
-            "Description": "Pyromancy foreign to the Great Swamp. Emit acid which corrodes weapons and armor damaging their durability. Does not affect user.",
-            "Location": [
-                "In the graveyard area to the right side as you enter near the edge of the cliff in the Painted World of Ariamis (Treasure)"
-            ],
-            "Type": "AoE Attack"
-        },
-        {
-            "Name": "Flash Sweat",
-            "Uses": 3,
-            "Slots": 1,
-            "Description": "Covers the player in water, reduces fire damage.",
-            "Location": [
-                "Laurentius (2,000 souls)"
-            ],
-            "Type": "Buff"
-        },
-        {
-            "Name": "Iron Flesh",
-            "Uses": 3,
-            "Slots": 1,
-            "Description": "Self-buff, raises defenses and poise. Note: User becomes heavy and unable to move freely: can only walk, can't run, sprint, roll, or jump.",
-            "Location": [
-                "Laurentius (2,000 souls)"
-            ],
-            "Type": "Buff"
-        },
-        {
-            "Name": "Power Within",
-            "Uses": 1,
-            "Slots": 1,
-            "Description": "Increases Attack and Defense but gradually drains HP",
-            "Location": [
-                "Blighttown (Underneath the Parasitic Wall Hugger) (Treasure)"
-            ],
-            "Type": "Buff"
-        },
-        {
-            "Name": "Undead Rapport",
-            "Uses": 7,
-            "Slots": 1,
-            "Description": "Advanced pyromancy of Quelana of Izalith. Charm undead and gain temporary allies. Melee ranged support spell with about 2-second cast time.",
-            "Location": [
-                "Quelana (10,000 souls)"
-            ],
-            "Type": "Melee Range Attack"
-        },
-        {
-            "Name": "Black Flame",
-            "Uses": 8,
-            "Slots": 1,
-            "Description": "Similar to Great Combustion. Melee-range pyromancy. Main difference with Great Combustion is that when Black Flame is blocked, it consumes a much higher amount of stamina than Great Combustion, making this pyromancy great for breaking guards.",
-            "Location": [
-                "Found on a corpse in the Chasm of the Abyss. (AotA Only)"
-            ],
-            "Type": "Melee Range Attack"
-        }
-    ],
-    "Miracles": [
-        {
-            "Name": "Heal",
-            "Uses": 5,
-            "Slots": 1,
-            "Faith": 12,
-            "Description": "Heals a moderate amount of the caster's HP, depending on faith.",
-            "Acquired From": [
-                "Cleric Default",
-                "Petrus of Thorolund (4,000 Souls)",
-                "Patches (5,000 Souls)",
-                "Reah of Thorolund (1,000 Souls)"
-            ],
-            "Type": "Heal"
-        },
-        {
-            "Name": "Great Heal Excerpt",
-            "Uses": 1,
-            "Slots": 1,
-            "Faith": 14,
-            "Description": "Cut down version of Great Heal. Heals a large amount of HP to the caster. (NOTE: This spell does not affect allies as the erroneous load screen info would have you believe.)",
-            "Acquired From": [
-                "Petrus of Thorolund (10,000 Souls)",
-                "Patches (10,000 Souls)",
-                "Reah of Thorolund (2,000 Souls)"
-            ],
-            "Type": "Heal"
-        },
-        {
-            "Name": "Great Heal",
-            "Uses": 3,
-            "Slots": 1,
-            "Faith": 24,
-            "Description": "Heals a large amount of the caster's HP, depending on faith.",
-            "Acquired From": [
-                "Reah of Thorolund (10,000 Souls)"
-            ],
-            "Type": "Heal"
-        },
-        {
-            "Name": "Soothing Sunlight",
-            "Uses": 3,
-            "Slots": 2,
-            "Faith": 48,
-            "Description": "Heals a large amount of HP to the caster and nearby allies. Scales with faith. Must be part of the Princess's Guard to use.",
-            "Acquired From": "Pisaca - Elder Sister",
-            "Type": "Heal"
-        },
-        {
-            "Name": "Replenishment",
-            "Uses": 2,
-            "Slots": 1,
-            "Faith": 16,
-            "Description": "Gradually restores HP over time for a short duration.",
-            "Acquired From": "Received from Reah of Thorolund after rescuing her from the two hollows in the Tomb of the Giants.",
-            "Type": "Heal (Buff)"
-        },
-        {
-            "Name": "Bountiful Sunlight",
-            "Uses": 2,
-            "Slots": 2,
-            "Faith": 36,
-            "Description": "Gradually restores HP over time for a short duration to you and nearby allies. Must be part of the Princess's Guard to use.",
-            "Acquired From": "Pisaca - Little Sister",
-            "Type": "Heal"
-        },
-        {
-            "Name": "Force",
-            "Uses": 21,
-            "Slots": 1,
-            "Faith": 12,
-            "Description": "AoE effect that does no damage but knocks back most surrounding enemies. Must be very close to cause knockdown. Can deflect sorceries such as Homing Soulmass.",
-            "Acquired From": [
-                "Petrus of Thorolund (4,000 Souls)",
-                "Reah of Thorolund (1,000 Souls)"
-            ],
-            "Type": "AoE Attack"
-        },
-        {
-            "Name": "Wrath of the Gods",
-            "Uses": 3,
-            "Slots": 1,
-            "Faith": 28,
-            "Description": "A fast casting force spell that deals high damage in a bubble around you. One of the most powerful offensive miracles in the game. Can deflect sorceries.",
-            "Acquired From": "Reah of Thorolund (10,000 Souls)",
-            "Type": "AoE Attack"
-        },
-        {
-            "Name": "Emit Force",
-            "Uses": 6,
-            "Slots": 1,
-            "Faith": 18,
-            "Description": "Shoots a large ball of force energy to explode on the target causing damage to the target and close surrounding enemies. Can deflect sorceries.",
-            "Acquired From": "After you clear Anor Londo, Siegmeyer of Catarina will appear at Firelink Shrine. When you talk to him he will ask if you opened the gates to Sen's Fortress. Say 'yes' and you will receive the miracle.",
-            "Type": "AoE Attack"
-        },
-        {
-            "Name": "Magic Barrier",
-            "Uses": 4,
-            "Slots": 1,
-            "Faith": 14,
-            "Description": "Reduces incoming magic damage for a short duration. (70%)?",
-            "Acquired From": "Reah of Thorolund (6,000 Souls)",
-            "Type": "Support (Buff)"
-        },
-        {
-            "Name": "Great Magic Barrier",
-            "Uses": 2,
-            "Slots": 1,
-            "Faith": 24,
-            "Description": "As Magic Barrier but reduces even more magic damage. (90%)?",
-            "Acquired From": "The Great Hollow - Ash Lake",
-            "Type": "Support (Buff)"
-        },
-        {
-            "Name": "Homeward",
-            "Uses": 1,
-            "Slots": 1,
-            "Faith": 18,
-            "Description": "Transports you back to the last used bonfire.",
-            "Acquired From": [
-                "Petrus of Thorolund (8,000 Souls)",
-                "Reah of Thorolund (1,000 Souls)"
-            ],
-            "Type": "Support"
-        },
-        {
-            "Name": "Seek Guidance",
-            "Uses": 5,
-            "Slots": 1,
-            "Faith": 12,
-            "Description": "The Seek Guidance miracle allows the player to see more messages on the ground as well as their positive and negative ratings. Additional developer messages, providing hints, can also be seen in some areas.",
-            "Acquired From": [
-                "Petrus of Thorolund (2,000 Souls)",
-                "Reah of Thorolund (500 Souls)"
-            ],
-            "Type": "Support (Buff)"
-        },
-        {
-            "Name": "Karmic Justice",
-            "Uses": 4,
-            "Slots": 1,
-            "Faith": 20,
-            "Description": "Karmic Justice is a self-buff that lasts for 1 minute. If the player takes successive hits in PHYSICAL damage (meaning melee and non-magical), the spell explodes, dealing massive damage to all nearby enemies and knocking them all down. A very effective miracle for players who wear cloth armor with no poise. If they get stunlocked by a combo, this spell can save you from certain death.",
-            "Acquired From": "Oswald of Carim (40,000 Souls)",
-            "Type": "Support (Buff)"
-        },
-        {
-            "Name": "Vow of Silence",
-            "Uses": 2,
-            "Slots": 2,
-            "Faith": 30,
-            "Description": "An AoE silence around you that stops all casting in the area, including your own, for about 25 seconds. Does not scale with faith.",
-            "Acquired From": "Painted World of Ariamis",
-            "Type": "Support"
-        },
-        {
-            "Name": "Tranquil Walk of Peace",
-            "Uses": 5,
-            "Slots": 1,
-            "Faith": 18,
-            "Description": "Applies a debuff to nearby enemies which slows movement speed, that lasts for about 10 seconds.",
-            "Acquired From": "Catacombs - From the second bonfire, go across the bridge to the spiral tower with two skeletons. There's a breakable wall with a big skeleton behind it. Go through a hole on the right side of the room and follow it up until you get to a necromancer. There's an easily missable ladder and the miracle is at the top.",
-            "Type": "Support"
-        },
-        {
-            "Name": "Lightning Spear",
-            "Uses": 10,
-            "Slots": 1,
-            "Faith": 20,
-            "Description": "A powerful spear of light that inflicts lightning damage. Scales with faith. Can be thrown into bodies of water to cause AoE. (Puddles, lakes, etc.)",
-            "Acquired From": "Covenant: Warrior of Sunlight",
-            "Type": "Ranged Attack"
-        },
-        {
-            "Name": "Great Lightning Spear",
-            "Uses": 10,
-            "Slots": 1,
-            "Faith": 30,
-            "Description": "A larger, more powerful spear of light that inflicts lightning damage. Scales with faith. Can be thrown into water to cause AoE. (Puddles, lakes, etc.)",
-            "Acquired From": "Covenant: Warrior of Sunlight\nRequires rank 1 in the covenant.",
-            "Type": "Ranged Attack"
-        },
-        {
-            "Name": "Sunlight Spear",
-            "Uses": 5,
-            "Slots": 2,
-            "Faith": 50,
-            "Description": "A very powerful version of the lightning spear. Fewer charges but a lot more damage. Scales with faith. Can be thrown into water to cause AoE. (Puddles, lakes, etc.) Must remain part of Warriors of Sunlight to use.",
-            "Acquired From": "Covenant: Warrior of Sunlight\nRequires Soul of Gwyn, Lord of Cinder and rank 1 in the covenant.",
-            "Type": "Ranged Attack"
-        },
-        {
-            "Name": "Sunlight Blade",
-            "Uses": 1,
-            "Slots": 1,
-            "Faith": 30,
-            "Description": "Coats right hand weapon in lightning. Adds 1.8x your talisman's Magic Adjustment value as Lightning Damage.",
-            "Acquired From": "Defeat Dark Sun Gwyndolin by entering the fog at the Blade of the Darkmoon altar. This will irreversibly cause the Anor Londo firekeeper to become hostile and will break your oath with Blade of the Darkmoon. You will be unable to join the covenant until the next playthrough.",
-            "Type": "Weapon Buff"
-        },
-        {
-            "Name": "Darkmoon Blade",
-            "Uses": 1,
-            "Slots": 1,
-            "Faith": 30,
-            "Description": "Boosts right hand weapon with rays of Darkmoon. Adds 1.8x your talisman's Magic Adjustment value as Magic Damage at Covenant Rank 0. Scaling increases by 0.1x for each rank to a maximum of 2.1x at Covenant Rank 3. Must be a member of the Darkmoon covenant to use.",
-            "Acquired From": "Covenant: Darkmoon\nOffer 10 Souvenirs of Reprisal to Gwyndolin to get to Rank 1 in order to obtain it.",
-            "Type": "Weapon Buff"
-        },
-        {
-            "Name": "Gravelord Sword Dance",
-            "Uses": 40,
-            "Slots": 1,
-            "Faith": 0,
-            "Description": "AoE miracle similar to Gravelord Nito's 'scream sword' attack. Several swords will pierce the ground impaling enemies in the area. Miracle is very effective when used in close quarters such as hallways or bridges as several swords may impale the same enemy. Note: Each casting costs 20 uses.",
-            "Acquired From": "Covenant: Gravelord Servant",
-            "Type": "AoE Attack"
-        },
-        {
-            "Name": "Gravelord Greatsword Dance",
-            "Uses": 40,
-            "Slots": 1,
-            "Faith": 0,
-            "Description": "Upgraded version of Gravelord Sword Dance miracle. Area of effect is expanded and increased damage.",
-            "Acquired From": "Covenant: Gravelord Servant\nRequires rank +1 in the covenant.",
-            "Type": "AoE Attack"
-        },
-        {
-            "Name": "Escape Death",
-            "Uses": 1,
-            "Slots": 1,
-            "Faith": 0,
-            "Description": "Escape Death is a self-buff that prevents the user from losing souls and humanity after death. The miracle will not work if the user has two other self-buffs active (i.e. having both the Green Blossom stamina regen effect and the Transient Curse's effect will prevent the use of this miracle). Upon death, the message 'Magic Revived' appears in green lettering identical to the 'Ring Revival' message produced when a player dies with a Ring of Sacrifice equipped.",
-            "Acquired From": "Unobtainable by normal means; the miracle lacks an icon when viewed on the Attune Magic page or in the player's spell slots, so the game developers likely did not finish it.",
-            "Type": "Support"
-        }
-    ]
+    "Spells": {
+        "Sorceries": [
+            {
+                "Name": "Soul Arrow",
+                "Uses": 30,
+                "Slots": 1,
+                "Intelligence": 10,
+                "Description": "Fires a magical projectile. Excellent starting spell which does very good damage against most enemies in the early game areas.",
+                "Location": [
+                    "Griggs of Vinheim 1,000 souls",
+                    "Big Hat Logan 1,000 souls",
+                    "Blacksmith Rickert of Vinheim 2,000 souls"
+                ],
+                "Type": "Ranged Magic Attack"
+            },
+            {
+                "Name": "Big Hat Logan",
+                "Uses": 20,
+                "Slots": 1,
+                "Intelligence": 14,
+                "Description": "Stronger soul arrow, same cast time as soul arrow, fewer uses.",
+                "Location": [
+                    "Griggs of Vinheim 6,000 souls",
+                    "Big Hat Logan 6,000 souls"
+                ],
+                "Type": "Ranged Magic Attack"
+            },
+            {
+                "Name": "Heavy Soul Arrow",
+                "Uses": 12,
+                "Slots": 1,
+                "Intelligence": 12,
+                "Description": "Stronger than greater soul arrow, longer casting time.",
+                "Location": [
+                    "Griggs of Vinheim 2,000 souls",
+                    "Big Hat Logan 2,000 souls",
+                    "Blacksmith Rickert of Vinheim 4,000 souls"
+                ],
+                "Type": "Ranged Magic Attack"
+            },
+            {
+                "Name": "Great Heavy Soul Arrow",
+                "Uses": 8,
+                "Slots": 1,
+                "Intelligence": 16,
+                "Description": "Stronger than heavy soul arrow, fewer uses. Has a slow cast time, but deals a tremendous amount of damage, even against bosses.",
+                "Location": [
+                    "Griggs of Vinheim 8,000 souls",
+                    "Big Hat Logan 8,000 souls"
+                ],
+                "Type": "Ranged Magic Attack"
+            },
+            {
+                "Name": "Homing Soulmass",
+                "Uses": 10,
+                "Slots": 1,
+                "Intelligence": 18,
+                "Description": "Fires multiple, homing magic projectiles. Can be successfully cast without an initial 'lock on'. Multiple soul arrows will hover above the player.",
+                "Location": [
+                    "Big Hat Logan 20,000 souls",
+                    "Griggs of Vinheim 20,000 souls"
+                ],
+                "Type": "Ranged Magic Attack"
+            },
+            {
+                "Name": "Homing Crystal Soulmass",
+                "Uses": 10,
+                "Slots": 1,
+                "Intelligence": 24,
+                "Description": "Fires multiple, homing crystal projectiles. Can be successfully cast without an initial 'lock on'. Multiple crystal arrows will hover above the player.",
+                "Location": [
+                    "Big Hat Logan 30,000 souls"
+                ],
+                "Type": "Ranged Magic Attack"
+            },
+            {
+                "Name": "Soul Spear",
+                "Uses": 4,
+                "Slots": 1,
+                "Intelligence": 36,
+                "Description": "Fire piercing soul spear.",
+                "Location": [
+                    "Big Hat Logan 40,000 souls",
+                    "Griggs of Vinheim 40,000 souls"
+                ],
+                "Type": "Ranged Magic Attack"
+            },
+            {
+                "Name": "Crystal Soul Spear",
+                "Uses": 4,
+                "Slots": 1,
+                "Intelligence": 44,
+                "Description": "Fire an even more powerful, piercing ranged attack.",
+                "Location": [
+                    "Big Hat Logan 50,000 souls"
+                ],
+                "Type": "Ranged Magic Attack"
+            },
+            {
+                "Name": "White Dragon Breath",
+                "Uses": 20,
+                "Slots": 1,
+                "Intelligence": 50,
+                "Description": "A straight line of crystals pop out of the ground in front of you, shooting towards your target. One advantage of this spell is that it will take out large groups of enemies if they are lined up one behind the other. It has a medium cast time, but once it fires, it will take out anything in its path. 20 casts make this a great high level replacement for the soul arrow at high levels, as it's not as useful on most bosses.",
+                "Location": [
+                    "Big Hat Logan (drop)"
+                ],
+                "Type": "Ranged Magic Attack"
+            }
+        ],
+        "Pyromancies": [
+            {
+                "Name": "Fireball",
+                "Uses": 8,
+                "Slots": 1,
+                "Description": "Standard pyromancy of the Great Swamp. Hurl fireball.",
+                "Location": [
+                    "Laurentius (800 souls)",
+                    "Quelana",
+                    "Starting spell for the Pyromancer class."
+                ],
+                "Type": "Ranged Attack",
+                "Very Small AOE": true
+            },
+            {
+                "Name": "Fire Orb",
+                "Uses": 6,
+                "Slots": 1,
+                "Description": "Pyromancy which improves upon Fireball. Hurl fire orb.",
+                "Location": [
+                    "Laurentius",
+                    "Quelana (8,000 souls)"
+                ],
+                "Type": "Ranged Attack",
+                "Small AOE": true
+            },
+            {
+                "Name": "Great Fireball",
+                "Uses": 4,
+                "Slots": 1,
+                "Description": "Ultimate fireball pyromancy. Hurl giant fireball.",
+                "Location": [
+                    "Quelana (20,000 souls)"
+                ],
+                "Type": "Ranged Attack",
+                "AOE": true
+            },
+            {
+                "Name": "Great Chaos Fireball",
+                "Uses": 4,
+                "Slots": 2,
+                "Description": "Hurl giant chaos fireball, leaving a large amount of temporary lava",
+                "Location": [
+                    "Joining Chaos Servant covenant (Daughter of Chaos after Quelaag) (Covenant)"
+                ],
+                "Type": "Ranged AoE Attack"
+            },
+            {
+                "Name": "Firestorm",
+                "Uses": 20,
+                "Slots": 1,
+                "Description": "Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity. Note: Uses 17 uses per cast.",
+                "Location": [
+                    "Quelana (30,000 souls)"
+                ],
+                "Type": "Big AoE Attack"
+            },
+            {
+                "Name": "Fire Tempest",
+                "Uses": 20,
+                "Slots": 1,
+                "Description": "Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity. Note: Uses 17 uses per cast.",
+                "Location": [
+                    "Quelana gives it to you after finishing her favor (Gift/Drop)"
+                ],
+                "Type": "Big AoE Attack"
+            },
+            {
+                "Name": "Chaos Storm",
+                "Uses": 20,
+                "Slots": 2,
+                "Description": "Erect localized chaos fire pillars which leave blobs of temporary lava Note: Like firestorm and leaves a little lava behind.",
+                "Location": [
+                    "Rank 2 in Chaos Servant (30 humanities total) (Covenant)"
+                ],
+                "Type": "Big AoE Attack"
+            },
+            {
+                "Name": "Combustion",
+                "Uses": 16,
+                "Slots": 1,
+                "Description": "Elementary pyromancy. Create powerful flame in hand Note: Good 'melee' range spell, very quick too.",
+                "Location": [
+                    "Laurentius (500 souls)",
+                    "Quelana (5,000 souls)"
+                ],
+                "Type": "Melee Range Attack"
+            },
+            {
+                "Name": "Fire Surge",
+                "Uses": 80,
+                "Slots": 1,
+                "Description": "Pyromancy foreign to the Great Swamp. Create a surge of flame from palm of hand. Note: Rapid fire spell you can cast while moving.",
+                "Location": [
+                    "Drop from the Bloated Dredge located after passing two illusory walls under the well, in Painted World of Ariamis (Drop)"
+                ],
+                "Type": "Short-Ranged Attack"
+            },
+            {
+                "Name": "Fire Whip",
+                "Uses": 80,
+                "Slots": 1,
+                "Description": "Primal pyromancy taught by Quelana of Izalith. Sweep foes with fire whip. Note: Uses 21 uses per cast. Note: Hits twice/cast.",
+                "Location": [
+                    "Quelana (10,000 souls)"
+                ],
+                "Type": "Short-Ranged Attack"
+            },
+            {
+                "Name": "Chaos Fire Whip",
+                "Uses": 80,
+                "Slots": 2,
+                "Description": "Sweep foes with chaos fire whip with lava traces Note: Leaves lava behind for a bit. Follows same mechanics as Fire Whip.",
+                "Location": [
+                    "Chest in Lost Izalith - turn right at the boss fog, it is down the path and around the corner guarded by a Chaos Eater (Treasure)"
+                ],
+                "Type": "Short-Ranged Attack"
+            },
+            {
+                "Name": "Poison Mist",
+                "Uses": 3,
+                "Slots": 1,
+                "Description": "Breathes out a cone of poison mist that fills the surrounding area causing poison status.",
+                "Location": [
+                    "Swamp in Blighttown (10,000 souls)",
+                    "Eingyi, the Egg-burdened NPC near the Daughter of Chaos sells this. (You need to be an Egg-head to be able to purchase this.)"
+                ],
+                "Type": "AoE"
+            },
+            {
+                "Name": "Toxic Mist",
+                "Uses": 1,
+                "Slots": 1,
+                "Description": "Breathes out a cone of toxic mist that fills the surrounding area causing toxic status.",
+                "Location": [
+                    "Eingyi, the Egg Burdened NPC near the Daughter of Chaos. (You need to be an Egg-head to be able to purchase this.) (25,000 souls)"
+                ],
+                "Type": "AoE"
+            },
+            {
+                "Name": "Acid Surge",
+                "Uses": 2,
+                "Slots": 1,
+                "Description": "Pyromancy foreign to the Great Swamp. Emit acid which corrodes weapons and armor damaging their durability. Does not affect user.",
+                "Location": [
+                    "In the graveyard area to the right side as you enter near the edge of the cliff in the Painted World of Ariamis (Treasure)"
+                ],
+                "Type": "AoE Attack"
+            },
+            {
+                "Name": "Flash Sweat",
+                "Uses": 3,
+                "Slots": 1,
+                "Description": "Covers the player in water, reduces fire damage.",
+                "Location": [
+                    "Laurentius (2,000 souls)"
+                ],
+                "Type": "Buff"
+            },
+            {
+                "Name": "Iron Flesh",
+                "Uses": 3,
+                "Slots": 1,
+                "Description": "Self-buff, raises defenses and poise. Note: User becomes heavy and unable to move freely: can only walk, can't run, sprint, roll, or jump.",
+                "Location": [
+                    "Laurentius (2,000 souls)"
+                ],
+                "Type": "Buff"
+            },
+            {
+                "Name": "Power Within",
+                "Uses": 1,
+                "Slots": 1,
+                "Description": "Increases Attack and Defense but gradually drains HP",
+                "Location": [
+                    "Blighttown (Underneath the Parasitic Wall Hugger) (Treasure)"
+                ],
+                "Type": "Buff"
+            },
+            {
+                "Name": "Undead Rapport",
+                "Uses": 7,
+                "Slots": 1,
+                "Description": "Advanced pyromancy of Quelana of Izalith. Charm undead and gain temporary allies. Melee ranged support spell with about 2-second cast time.",
+                "Location": [
+                    "Quelana (10,000 souls)"
+                ],
+                "Type": "Melee Range Attack"
+            },
+            {
+                "Name": "Black Flame",
+                "Uses": 8,
+                "Slots": 1,
+                "Description": "Similar to Great Combustion. Melee-range pyromancy. Main difference with Great Combustion is that when Black Flame is blocked, it consumes a much higher amount of stamina than Great Combustion, making this pyromancy great for breaking guards.",
+                "Location": [
+                    "Found on a corpse in the Chasm of the Abyss. (AotA Only)"
+                ],
+                "Type": "Melee Range Attack"
+            }
+        ],
+        "Miracles": [
+            {
+                "Name": "Heal",
+                "Uses": 5,
+                "Slots": 1,
+                "Faith": 12,
+                "Description": "Heals a moderate amount of the caster's HP, depending on faith.",
+                "Acquired From": [
+                    "Cleric Default",
+                    "Petrus of Thorolund (4,000 Souls)",
+                    "Patches (5,000 Souls)",
+                    "Reah of Thorolund (1,000 Souls)"
+                ],
+                "Type": "Heal"
+            },
+            {
+                "Name": "Great Heal Excerpt",
+                "Uses": 1,
+                "Slots": 1,
+                "Faith": 14,
+                "Description": "Cut down version of Great Heal. Heals a large amount of HP to the caster. (NOTE: This spell does not affect allies as the erroneous load screen info would have you believe.)",
+                "Acquired From": [
+                    "Petrus of Thorolund (10,000 Souls)",
+                    "Patches (10,000 Souls)",
+                    "Reah of Thorolund (2,000 Souls)"
+                ],
+                "Type": "Heal"
+            },
+            {
+                "Name": "Great Heal",
+                "Uses": 3,
+                "Slots": 1,
+                "Faith": 24,
+                "Description": "Heals a large amount of the caster's HP, depending on faith.",
+                "Acquired From": [
+                    "Reah of Thorolund (10,000 Souls)"
+                ],
+                "Type": "Heal"
+            },
+            {
+                "Name": "Soothing Sunlight",
+                "Uses": 3,
+                "Slots": 2,
+                "Faith": 48,
+                "Description": "Heals a large amount of HP to the caster and nearby allies. Scales with faith. Must be part of the Princess's Guard to use.",
+                "Acquired From": "Pisaca - Elder Sister",
+                "Type": "Heal"
+            },
+            {
+                "Name": "Replenishment",
+                "Uses": 2,
+                "Slots": 1,
+                "Faith": 16,
+                "Description": "Gradually restores HP over time for a short duration.",
+                "Acquired From": "Received from Reah of Thorolund after rescuing her from the two hollows in the Tomb of the Giants.",
+                "Type": "Heal (Buff)"
+            },
+            {
+                "Name": "Bountiful Sunlight",
+                "Uses": 2,
+                "Slots": 2,
+                "Faith": 36,
+                "Description": "Gradually restores HP over time for a short duration to you and nearby allies. Must be part of the Princess's Guard to use.",
+                "Acquired From": "Pisaca - Little Sister",
+                "Type": "Heal"
+            },
+            {
+                "Name": "Force",
+                "Uses": 21,
+                "Slots": 1,
+                "Faith": 12,
+                "Description": "AoE effect that does no damage but knocks back most surrounding enemies. Must be very close to cause knockdown. Can deflect sorceries such as Homing Soulmass.",
+                "Acquired From": [
+                    "Petrus of Thorolund (4,000 Souls)",
+                    "Reah of Thorolund (1,000 Souls)"
+                ],
+                "Type": "AoE Attack"
+            },
+            {
+                "Name": "Wrath of the Gods",
+                "Uses": 3,
+                "Slots": 1,
+                "Faith": 28,
+                "Description": "A fast casting force spell that deals high damage in a bubble around you. One of the most powerful offensive miracles in the game. Can deflect sorceries.",
+                "Acquired From": "Reah of Thorolund (10,000 Souls)",
+                "Type": "AoE Attack"
+            },
+            {
+                "Name": "Emit Force",
+                "Uses": 6,
+                "Slots": 1,
+                "Faith": 18,
+                "Description": "Shoots a large ball of force energy to explode on the target causing damage to the target and close surrounding enemies. Can deflect sorceries.",
+                "Acquired From": "After you clear Anor Londo, Siegmeyer of Catarina will appear at Firelink Shrine. When you talk to him he will ask if you opened the gates to Sen's Fortress. Say 'yes' and you will receive the miracle.",
+                "Type": "AoE Attack"
+            },
+            {
+                "Name": "Magic Barrier",
+                "Uses": 4,
+                "Slots": 1,
+                "Faith": 14,
+                "Description": "Reduces incoming magic damage for a short duration. (70%)?",
+                "Acquired From": "Reah of Thorolund (6,000 Souls)",
+                "Type": "Support (Buff)"
+            },
+            {
+                "Name": "Great Magic Barrier",
+                "Uses": 2,
+                "Slots": 1,
+                "Faith": 24,
+                "Description": "As Magic Barrier but reduces even more magic damage. (90%)?",
+                "Acquired From": "The Great Hollow - Ash Lake",
+                "Type": "Support (Buff)"
+            },
+            {
+                "Name": "Homeward",
+                "Uses": 1,
+                "Slots": 1,
+                "Faith": 18,
+                "Description": "Transports you back to the last used bonfire.",
+                "Acquired From": [
+                    "Petrus of Thorolund (8,000 Souls)",
+                    "Reah of Thorolund (1,000 Souls)"
+                ],
+                "Type": "Support"
+            },
+            {
+                "Name": "Seek Guidance",
+                "Uses": 5,
+                "Slots": 1,
+                "Faith": 12,
+                "Description": "The Seek Guidance miracle allows the player to see more messages on the ground as well as their positive and negative ratings. Additional developer messages, providing hints, can also be seen in some areas.",
+                "Acquired From": [
+                    "Petrus of Thorolund (2,000 Souls)",
+                    "Reah of Thorolund (500 Souls)"
+                ],
+                "Type": "Support (Buff)"
+            },
+            {
+                "Name": "Karmic Justice",
+                "Uses": 4,
+                "Slots": 1,
+                "Faith": 20,
+                "Description": "Karmic Justice is a self-buff that lasts for 1 minute. If the player takes successive hits in PHYSICAL damage (meaning melee and non-magical), the spell explodes, dealing massive damage to all nearby enemies and knocking them all down. A very effective miracle for players who wear cloth armor with no poise. If they get stunlocked by a combo, this spell can save you from certain death.",
+                "Acquired From": "Oswald of Carim (40,000 Souls)",
+                "Type": "Support (Buff)"
+            },
+            {
+                "Name": "Vow of Silence",
+                "Uses": 2,
+                "Slots": 2,
+                "Faith": 30,
+                "Description": "An AoE silence around you that stops all casting in the area, including your own, for about 25 seconds. Does not scale with faith.",
+                "Acquired From": "Painted World of Ariamis",
+                "Type": "Support"
+            },
+            {
+                "Name": "Tranquil Walk of Peace",
+                "Uses": 5,
+                "Slots": 1,
+                "Faith": 18,
+                "Description": "Applies a debuff to nearby enemies which slows movement speed, that lasts for about 10 seconds.",
+                "Acquired From": "Catacombs - From the second bonfire, go across the bridge to the spiral tower with two skeletons. There's a breakable wall with a big skeleton behind it. Go through a hole on the right side of the room and follow it up until you get to a necromancer. There's an easily missable ladder and the miracle is at the top.",
+                "Type": "Support"
+            },
+            {
+                "Name": "Lightning Spear",
+                "Uses": 10,
+                "Slots": 1,
+                "Faith": 20,
+                "Description": "A powerful spear of light that inflicts lightning damage. Scales with faith. Can be thrown into bodies of water to cause AoE. (Puddles, lakes, etc.)",
+                "Acquired From": "Covenant: Warrior of Sunlight",
+                "Type": "Ranged Attack"
+            },
+            {
+                "Name": "Great Lightning Spear",
+                "Uses": 10,
+                "Slots": 1,
+                "Faith": 30,
+                "Description": "A larger, more powerful spear of light that inflicts lightning damage. Scales with faith. Can be thrown into water to cause AoE. (Puddles, lakes, etc.)",
+                "Acquired From": "Covenant: Warrior of Sunlight\nRequires rank 1 in the covenant.",
+                "Type": "Ranged Attack"
+            },
+            {
+                "Name": "Sunlight Spear",
+                "Uses": 5,
+                "Slots": 2,
+                "Faith": 50,
+                "Description": "A very powerful version of the lightning spear. Fewer charges but a lot more damage. Scales with faith. Can be thrown into water to cause AoE. (Puddles, lakes, etc.) Must remain part of Warriors of Sunlight to use.",
+                "Acquired From": "Covenant: Warrior of Sunlight\nRequires Soul of Gwyn, Lord of Cinder and rank 1 in the covenant.",
+                "Type": "Ranged Attack"
+            },
+            {
+                "Name": "Sunlight Blade",
+                "Uses": 1,
+                "Slots": 1,
+                "Faith": 30,
+                "Description": "Coats right hand weapon in lightning. Adds 1.8x your talisman's Magic Adjustment value as Lightning Damage.",
+                "Acquired From": "Defeat Dark Sun Gwyndolin by entering the fog at the Blade of the Darkmoon altar. This will irreversibly cause the Anor Londo firekeeper to become hostile and will break your oath with Blade of the Darkmoon. You will be unable to join the covenant until the next playthrough.",
+                "Type": "Weapon Buff"
+            },
+            {
+                "Name": "Darkmoon Blade",
+                "Uses": 1,
+                "Slots": 1,
+                "Faith": 30,
+                "Description": "Boosts right hand weapon with rays of Darkmoon. Adds 1.8x your talisman's Magic Adjustment value as Magic Damage at Covenant Rank 0. Scaling increases by 0.1x for each rank to a maximum of 2.1x at Covenant Rank 3. Must be a member of the Darkmoon covenant to use.",
+                "Acquired From": "Covenant: Darkmoon\nOffer 10 Souvenirs of Reprisal to Gwyndolin to get to Rank 1 in order to obtain it.",
+                "Type": "Weapon Buff"
+            },
+            {
+                "Name": "Gravelord Sword Dance",
+                "Uses": 40,
+                "Slots": 1,
+                "Faith": 0,
+                "Description": "AoE miracle similar to Gravelord Nito's 'scream sword' attack. Several swords will pierce the ground impaling enemies in the area. Miracle is very effective when used in close quarters such as hallways or bridges as several swords may impale the same enemy. Note: Each casting costs 20 uses.",
+                "Acquired From": "Covenant: Gravelord Servant",
+                "Type": "AoE Attack"
+            },
+            {
+                "Name": "Gravelord Greatsword Dance",
+                "Uses": 40,
+                "Slots": 1,
+                "Faith": 0,
+                "Description": "Upgraded version of Gravelord Sword Dance miracle. Area of effect is expanded and increased damage.",
+                "Acquired From": "Covenant: Gravelord Servant\nRequires rank +1 in the covenant.",
+                "Type": "AoE Attack"
+            },
+            {
+                "Name": "Escape Death",
+                "Uses": 1,
+                "Slots": 1,
+                "Faith": 0,
+                "Description": "Escape Death is a self-buff that prevents the user from losing souls and humanity after death. The miracle will not work if the user has two other self-buffs active (i.e. having both the Green Blossom stamina regen effect and the Transient Curse's effect will prevent the use of this miracle). Upon death, the message 'Magic Revived' appears in green lettering identical to the 'Ring Revival' message produced when a player dies with a Ring of Sacrifice equipped.",
+                "Acquired From": "Unobtainable by normal means; the miracle lacks an icon when viewed on the Attune Magic page or in the player's spell slots, so the game developers likely did not finish it.",
+                "Type": "Support"
+            }
+        ]
+    }
 }
