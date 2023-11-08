@@ -63,7 +63,7 @@
             "Location": "Found behind an illusory wall in Upper Oolacile Township, though unlike other illusory walls, it will require a light source of some sort to uncover. Skull Lantern, Cast Light spell and Sunlight Maggot are confirmed to work."
         }
     ],
-    "boss souls": [
+    "boss_souls": [
         {
             "Name": "Soul of the Moonlight Butterfly",
             "Details": [
