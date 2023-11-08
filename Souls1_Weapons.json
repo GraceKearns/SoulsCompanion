@@ -32,7 +32,7 @@
                 "Notes": "One of the rare weapons of the Darkwraiths. This weapon has a unique attack that inflicts both Magic and Humanity."
             }
         ],
-        "Straight Swords": [
+        "Straight_Swords": [
             {
                 "Name": "Straight Sword Hilt",
                 "Location": "Starting equipment for the Sorcerer class.",
@@ -247,7 +247,7 @@
                 "Notes": "A cursed katana that inflicts damage upon its wielder."
             }
         ],
-        "Curved Greatswords": [
+        "Curved_Greatswords": [
             {
                 "Name": "Server",
                 "Location": "Dropped by the Infested Barbarians in Blighttown.",
@@ -264,7 +264,7 @@
                 "Notes": "Sword wielded only by servants of Gravelord Nito, the first of the dead."
             }
         ],
-        "Piercing Swords": [
+        "Piercing_Swords": [
             {
                 "Name": "Rapier",
                 "Location": "Found in Sen's Fortress, on a corpse.",
@@ -323,7 +323,7 @@
                 "Notes": "Stone golem's core, which never broke."
             }
         ],
-        "Great Axes": [
+        "Great_Axes": [
             {
                 "Name": "Demon's Greataxe",
                 "Location": "Dropped by Taurus Demons in the Demon Ruins.",
@@ -397,7 +397,7 @@
                 "Notes": "Huge hammer of Vamos, a skilled blacksmith in the Catacombs."
             }
         ],
-        "Great Hammers": [
+        "Great_Hammers": [
             {
                 "Name": "Demon's Great Hammer",
                 "Location": "Dropped by Taurus Demons in the Demon Ruins.",
@@ -429,7 +429,7 @@
                 "Notes": "Large wooden hammer associated with Paladin Leeroy."
             }
         ],
-        "Fist and Claw": [
+        "Fist_and_Claw": [
             {
                 "Name": "Caestus",
                 "Location": "Sold by Andre of Astora after he has been given the Large Ember.",
